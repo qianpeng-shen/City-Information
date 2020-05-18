@@ -12560,5 +12560,4873 @@
                   "_districtname": "华南热作学院",
                   "_cityid": "460400000000"
               }
-          ]
-      }
+          ],
+          '500100000000': [
+            {
+                '_districtid': '500101000000',
+                '_districtname': '万州区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500102000000',
+                '_districtname': '涪陵区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500103000000',
+                '_districtname': '渝中区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500104000000',
+                '_districtname': '大渡口区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500105000000',
+                '_districtname': '江北区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500106000000',
+                '_districtname': '沙坪坝区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500107000000',
+                '_districtname': '九龙坡区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500108000000',
+                '_districtname': '南岸区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500109000000',
+                '_districtname': '北碚区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500110000000',
+                '_districtname': '綦江区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500111000000',
+                '_districtname': '大足区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500112000000',
+                '_districtname': '渝北区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500113000000',
+                '_districtname': '巴南区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500114000000',
+                '_districtname': '黔江区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500115000000',
+                '_districtname': '长寿区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500116000000',
+                '_districtname': '江津区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500117000000',
+                '_districtname': '合川区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500118000000',
+                '_districtname': '永川区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500119000000',
+                '_districtname': '南川区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500120000000',
+                '_districtname': '璧山区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500151000000',
+                '_districtname': '铜梁区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500152000000',
+                '_districtname': '潼南区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500153000000',
+                '_districtname': '荣昌区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500154000000',
+                '_districtname': '开州区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500155000000',
+                '_districtname': '梁平区',
+                '_cityid': '500100000000'
+            },
+            {
+                '_districtid': '500156000000',
+                '_districtname': '武隆区',
+                '_cityid': '500100000000'
+            }
+        ],
+        '500200000000': [
+            {
+                '_districtid': '500229000000',
+                '_districtname': '城口县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500230000000',
+                '_districtname': '丰都县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500231000000',
+                '_districtname': '垫江县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500233000000',
+                '_districtname': '忠县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500235000000',
+                '_districtname': '云阳县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500236000000',
+                '_districtname': '奉节县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500237000000',
+                '_districtname': '巫山县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500238000000',
+                '_districtname': '巫溪县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500240000000',
+                '_districtname': '石柱土家族自治县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500241000000',
+                '_districtname': '秀山土家族苗族自治县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500242000000',
+                '_districtname': '酉阳土家族苗族自治县',
+                '_cityid': '500200000000'
+            },
+            {
+                '_districtid': '500243000000',
+                '_districtname': '彭水苗族土家族自治县',
+                '_cityid': '500200000000'
+            }
+        ],
+        '520100000000': [
+            {
+                '_districtid': '520101000000',
+                '_districtname': '市辖区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520102000000',
+                '_districtname': '南明区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520103000000',
+                '_districtname': '云岩区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520111000000',
+                '_districtname': '花溪区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520112000000',
+                '_districtname': '乌当区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520113000000',
+                '_districtname': '白云区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520115000000',
+                '_districtname': '观山湖区',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520121000000',
+                '_districtname': '开阳县',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520122000000',
+                '_districtname': '息烽县',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520123000000',
+                '_districtname': '修文县',
+                '_cityid': '520100000000'
+            },
+            {
+                '_districtid': '520181000000',
+                '_districtname': '清镇市',
+                '_cityid': '520100000000'
+            }
+        ],
+        '520200000000': [
+            {
+                '_districtid': '520201000000',
+                '_districtname': '钟山区',
+                '_cityid': '520200000000'
+            },
+            {
+                '_districtid': '520203000000',
+                '_districtname': '六枝特区',
+                '_cityid': '520200000000'
+            },
+            {
+                '_districtid': '520221000000',
+                '_districtname': '水城县',
+                '_cityid': '520200000000'
+            },
+            {
+                '_districtid': '520281000000',
+                '_districtname': '盘州市',
+                '_cityid': '520200000000'
+            }
+        ],
+        '520300000000': [
+            {
+                '_districtid': '520301000000',
+                '_districtname': '市辖区',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520302000000',
+                '_districtname': '红花岗区',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520303000000',
+                '_districtname': '汇川区',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520304000000',
+                '_districtname': '播州区',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520322000000',
+                '_districtname': '桐梓县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520323000000',
+                '_districtname': '绥阳县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520324000000',
+                '_districtname': '正安县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520325000000',
+                '_districtname': '道真仡佬族苗族自治县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520326000000',
+                '_districtname': '务川仡佬族苗族自治县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520327000000',
+                '_districtname': '凤冈县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520328000000',
+                '_districtname': '湄潭县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520329000000',
+                '_districtname': '余庆县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520330000000',
+                '_districtname': '习水县',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520381000000',
+                '_districtname': '赤水市',
+                '_cityid': '520300000000'
+            },
+            {
+                '_districtid': '520382000000',
+                '_districtname': '仁怀市',
+                '_cityid': '520300000000'
+            }
+        ],
+        '520400000000': [
+            {
+                '_districtid': '520401000000',
+                '_districtname': '市辖区',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520402000000',
+                '_districtname': '西秀区',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520403000000',
+                '_districtname': '平坝区',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520422000000',
+                '_districtname': '普定县',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520423000000',
+                '_districtname': '镇宁布依族苗族自治县',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520424000000',
+                '_districtname': '关岭布依族苗族自治县',
+                '_cityid': '520400000000'
+            },
+            {
+                '_districtid': '520425000000',
+                '_districtname': '紫云苗族布依族自治县',
+                '_cityid': '520400000000'
+            }
+        ],
+        '520500000000': [
+            {
+                '_districtid': '520501000000',
+                '_districtname': '市辖区',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520502000000',
+                '_districtname': '七星关区',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520521000000',
+                '_districtname': '大方县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520522000000',
+                '_districtname': '黔西县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520523000000',
+                '_districtname': '金沙县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520524000000',
+                '_districtname': '织金县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520525000000',
+                '_districtname': '纳雍县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520526000000',
+                '_districtname': '威宁彝族回族苗族自治县',
+                '_cityid': '520500000000'
+            },
+            {
+                '_districtid': '520527000000',
+                '_districtname': '赫章县',
+                '_cityid': '520500000000'
+            }
+        ],
+        '520600000000': [
+            {
+                '_districtid': '520601000000',
+                '_districtname': '市辖区',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520602000000',
+                '_districtname': '碧江区',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520603000000',
+                '_districtname': '万山区',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520621000000',
+                '_districtname': '江口县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520622000000',
+                '_districtname': '玉屏侗族自治县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520623000000',
+                '_districtname': '石阡县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520624000000',
+                '_districtname': '思南县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520625000000',
+                '_districtname': '印江土家族苗族自治县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520626000000',
+                '_districtname': '德江县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520627000000',
+                '_districtname': '沿河土家族自治县',
+                '_cityid': '520600000000'
+            },
+            {
+                '_districtid': '520628000000',
+                '_districtname': '松桃苗族自治县',
+                '_cityid': '520600000000'
+            }
+        ],
+        '522300000000': [
+            {
+                '_districtid': '522301000000',
+                '_districtname': '兴义市',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522302000000',
+                '_districtname': '兴仁市',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522323000000',
+                '_districtname': '普安县',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522324000000',
+                '_districtname': '晴隆县',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522325000000',
+                '_districtname': '贞丰县',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522326000000',
+                '_districtname': '望谟县',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522327000000',
+                '_districtname': '册亨县',
+                '_cityid': '522300000000'
+            },
+            {
+                '_districtid': '522328000000',
+                '_districtname': '安龙县',
+                '_cityid': '522300000000'
+            }
+        ],
+        '522600000000': [
+            {
+                '_districtid': '522601000000',
+                '_districtname': '凯里市',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522622000000',
+                '_districtname': '黄平县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522623000000',
+                '_districtname': '施秉县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522624000000',
+                '_districtname': '三穗县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522625000000',
+                '_districtname': '镇远县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522626000000',
+                '_districtname': '岑巩县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522627000000',
+                '_districtname': '天柱县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522628000000',
+                '_districtname': '锦屏县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522629000000',
+                '_districtname': '剑河县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522630000000',
+                '_districtname': '台江县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522631000000',
+                '_districtname': '黎平县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522632000000',
+                '_districtname': '榕江县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522633000000',
+                '_districtname': '从江县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522634000000',
+                '_districtname': '雷山县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522635000000',
+                '_districtname': '麻江县',
+                '_cityid': '522600000000'
+            },
+            {
+                '_districtid': '522636000000',
+                '_districtname': '丹寨县',
+                '_cityid': '522600000000'
+            }
+        ],
+        '522700000000': [
+            {
+                '_districtid': '522701000000',
+                '_districtname': '都匀市',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522702000000',
+                '_districtname': '福泉市',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522722000000',
+                '_districtname': '荔波县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522723000000',
+                '_districtname': '贵定县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522725000000',
+                '_districtname': '瓮安县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522726000000',
+                '_districtname': '独山县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522727000000',
+                '_districtname': '平塘县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522728000000',
+                '_districtname': '罗甸县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522729000000',
+                '_districtname': '长顺县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522730000000',
+                '_districtname': '龙里县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522731000000',
+                '_districtname': '惠水县',
+                '_cityid': '522700000000'
+            },
+            {
+                '_districtid': '522732000000',
+                '_districtname': '三都水族自治县',
+                '_cityid': '522700000000'
+            }
+        ],
+        '530100000000': [
+            {
+                '_districtid': '530101000000',
+                '_districtname': '市辖区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530102000000',
+                '_districtname': '五华区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530103000000',
+                '_districtname': '盘龙区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530111000000',
+                '_districtname': '官渡区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530112000000',
+                '_districtname': '西山区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530113000000',
+                '_districtname': '东川区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530114000000',
+                '_districtname': '呈贡区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530115000000',
+                '_districtname': '晋宁区',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530124000000',
+                '_districtname': '富民县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530125000000',
+                '_districtname': '宜良县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530126000000',
+                '_districtname': '石林彝族自治县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530127000000',
+                '_districtname': '嵩明县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530128000000',
+                '_districtname': '禄劝彝族苗族自治县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530129000000',
+                '_districtname': '寻甸回族彝族自治县',
+                '_cityid': '530100000000'
+            },
+            {
+                '_districtid': '530181000000',
+                '_districtname': '安宁市',
+                '_cityid': '530100000000'
+            }
+        ],
+        '530300000000': [
+            {
+                '_districtid': '530301000000',
+                '_districtname': '市辖区',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530302000000',
+                '_districtname': '麒麟区',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530303000000',
+                '_districtname': '沾益区',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530304000000',
+                '_districtname': '马龙区',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530322000000',
+                '_districtname': '陆良县',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530323000000',
+                '_districtname': '师宗县',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530324000000',
+                '_districtname': '罗平县',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530325000000',
+                '_districtname': '富源县',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530326000000',
+                '_districtname': '会泽县',
+                '_cityid': '530300000000'
+            },
+            {
+                '_districtid': '530381000000',
+                '_districtname': '宣威市',
+                '_cityid': '530300000000'
+            }
+        ],
+        '530400000000': [
+            {
+                '_districtid': '530401000000',
+                '_districtname': '市辖区',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530402000000',
+                '_districtname': '红塔区',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530403000000',
+                '_districtname': '江川区',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530422000000',
+                '_districtname': '澄江县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530423000000',
+                '_districtname': '通海县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530424000000',
+                '_districtname': '华宁县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530425000000',
+                '_districtname': '易门县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530426000000',
+                '_districtname': '峨山彝族自治县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530427000000',
+                '_districtname': '新平彝族傣族自治县',
+                '_cityid': '530400000000'
+            },
+            {
+                '_districtid': '530428000000',
+                '_districtname': '元江哈尼族彝族傣族自治县',
+                '_cityid': '530400000000'
+            }
+        ],
+        '530500000000': [
+            {
+                '_districtid': '530501000000',
+                '_districtname': '市辖区',
+                '_cityid': '530500000000'
+            },
+            {
+                '_districtid': '530502000000',
+                '_districtname': '隆阳区',
+                '_cityid': '530500000000'
+            },
+            {
+                '_districtid': '530521000000',
+                '_districtname': '施甸县',
+                '_cityid': '530500000000'
+            },
+            {
+                '_districtid': '530523000000',
+                '_districtname': '龙陵县',
+                '_cityid': '530500000000'
+            },
+            {
+                '_districtid': '530524000000',
+                '_districtname': '昌宁县',
+                '_cityid': '530500000000'
+            },
+            {
+                '_districtid': '530581000000',
+                '_districtname': '腾冲市',
+                '_cityid': '530500000000'
+            }
+        ],
+        '530600000000': [
+            {
+                '_districtid': '530601000000',
+                '_districtname': '市辖区',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530602000000',
+                '_districtname': '昭阳区',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530621000000',
+                '_districtname': '鲁甸县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530622000000',
+                '_districtname': '巧家县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530623000000',
+                '_districtname': '盐津县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530624000000',
+                '_districtname': '大关县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530625000000',
+                '_districtname': '永善县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530626000000',
+                '_districtname': '绥江县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530627000000',
+                '_districtname': '镇雄县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530628000000',
+                '_districtname': '彝良县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530629000000',
+                '_districtname': '威信县',
+                '_cityid': '530600000000'
+            },
+            {
+                '_districtid': '530681000000',
+                '_districtname': '水富市',
+                '_cityid': '530600000000'
+            }
+        ],
+        '530700000000': [
+            {
+                '_districtid': '530701000000',
+                '_districtname': '市辖区',
+                '_cityid': '530700000000'
+            },
+            {
+                '_districtid': '530702000000',
+                '_districtname': '古城区',
+                '_cityid': '530700000000'
+            },
+            {
+                '_districtid': '530721000000',
+                '_districtname': '玉龙纳西族自治县',
+                '_cityid': '530700000000'
+            },
+            {
+                '_districtid': '530722000000',
+                '_districtname': '永胜县',
+                '_cityid': '530700000000'
+            },
+            {
+                '_districtid': '530723000000',
+                '_districtname': '华坪县',
+                '_cityid': '530700000000'
+            },
+            {
+                '_districtid': '530724000000',
+                '_districtname': '宁蒗彝族自治县',
+                '_cityid': '530700000000'
+            }
+        ],
+        '530800000000': [
+            {
+                '_districtid': '530801000000',
+                '_districtname': '市辖区',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530802000000',
+                '_districtname': '思茅区',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530821000000',
+                '_districtname': '宁洱哈尼族彝族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530822000000',
+                '_districtname': '墨江哈尼族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530823000000',
+                '_districtname': '景东彝族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530824000000',
+                '_districtname': '景谷傣族彝族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530825000000',
+                '_districtname': '镇沅彝族哈尼族拉祜族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530826000000',
+                '_districtname': '江城哈尼族彝族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530827000000',
+                '_districtname': '孟连傣族拉祜族佤族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530828000000',
+                '_districtname': '澜沧拉祜族自治县',
+                '_cityid': '530800000000'
+            },
+            {
+                '_districtid': '530829000000',
+                '_districtname': '西盟佤族自治县',
+                '_cityid': '530800000000'
+            }
+        ],
+        '530900000000': [
+            {
+                '_districtid': '530901000000',
+                '_districtname': '市辖区',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530902000000',
+                '_districtname': '临翔区',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530921000000',
+                '_districtname': '凤庆县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530922000000',
+                '_districtname': '云县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530923000000',
+                '_districtname': '永德县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530924000000',
+                '_districtname': '镇康县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530925000000',
+                '_districtname': '双江拉祜族佤族布朗族傣族自治县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530926000000',
+                '_districtname': '耿马傣族佤族自治县',
+                '_cityid': '530900000000'
+            },
+            {
+                '_districtid': '530927000000',
+                '_districtname': '沧源佤族自治县',
+                '_cityid': '530900000000'
+            }
+        ],
+        '532300000000': [
+            {
+                '_districtid': '532301000000',
+                '_districtname': '楚雄市',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532322000000',
+                '_districtname': '双柏县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532323000000',
+                '_districtname': '牟定县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532324000000',
+                '_districtname': '南华县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532325000000',
+                '_districtname': '姚安县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532326000000',
+                '_districtname': '大姚县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532327000000',
+                '_districtname': '永仁县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532328000000',
+                '_districtname': '元谋县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532329000000',
+                '_districtname': '武定县',
+                '_cityid': '532300000000'
+            },
+            {
+                '_districtid': '532331000000',
+                '_districtname': '禄丰县',
+                '_cityid': '532300000000'
+            }
+        ],
+        '532500000000': [
+            {
+                '_districtid': '532501000000',
+                '_districtname': '个旧市',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532502000000',
+                '_districtname': '开远市',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532503000000',
+                '_districtname': '蒙自市',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532504000000',
+                '_districtname': '弥勒市',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532523000000',
+                '_districtname': '屏边苗族自治县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532524000000',
+                '_districtname': '建水县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532525000000',
+                '_districtname': '石屏县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532527000000',
+                '_districtname': '泸西县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532528000000',
+                '_districtname': '元阳县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532529000000',
+                '_districtname': '红河县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532530000000',
+                '_districtname': '金平苗族瑶族傣族自治县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532531000000',
+                '_districtname': '绿春县',
+                '_cityid': '532500000000'
+            },
+            {
+                '_districtid': '532532000000',
+                '_districtname': '河口瑶族自治县',
+                '_cityid': '532500000000'
+            }
+        ],
+        '532600000000': [
+            {
+                '_districtid': '532601000000',
+                '_districtname': '文山市',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532622000000',
+                '_districtname': '砚山县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532623000000',
+                '_districtname': '西畴县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532624000000',
+                '_districtname': '麻栗坡县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532625000000',
+                '_districtname': '马关县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532626000000',
+                '_districtname': '丘北县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532627000000',
+                '_districtname': '广南县',
+                '_cityid': '532600000000'
+            },
+            {
+                '_districtid': '532628000000',
+                '_districtname': '富宁县',
+                '_cityid': '532600000000'
+            }
+        ],
+        '532800000000': [
+            {
+                '_districtid': '532801000000',
+                '_districtname': '景洪市',
+                '_cityid': '532800000000'
+            },
+            {
+                '_districtid': '532822000000',
+                '_districtname': '勐海县',
+                '_cityid': '532800000000'
+            },
+            {
+                '_districtid': '532823000000',
+                '_districtname': '勐腊县',
+                '_cityid': '532800000000'
+            }
+        ],
+        '532900000000': [
+            {
+                '_districtid': '532901000000',
+                '_districtname': '大理市',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532922000000',
+                '_districtname': '漾濞彝族自治县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532923000000',
+                '_districtname': '祥云县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532924000000',
+                '_districtname': '宾川县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532925000000',
+                '_districtname': '弥渡县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532926000000',
+                '_districtname': '南涧彝族自治县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532927000000',
+                '_districtname': '巍山彝族回族自治县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532928000000',
+                '_districtname': '永平县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532929000000',
+                '_districtname': '云龙县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532930000000',
+                '_districtname': '洱源县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532931000000',
+                '_districtname': '剑川县',
+                '_cityid': '532900000000'
+            },
+            {
+                '_districtid': '532932000000',
+                '_districtname': '鹤庆县',
+                '_cityid': '532900000000'
+            }
+        ],
+        '533100000000': [
+            {
+                '_districtid': '533102000000',
+                '_districtname': '瑞丽市',
+                '_cityid': '533100000000'
+            },
+            {
+                '_districtid': '533103000000',
+                '_districtname': '芒市',
+                '_cityid': '533100000000'
+            },
+            {
+                '_districtid': '533122000000',
+                '_districtname': '梁河县',
+                '_cityid': '533100000000'
+            },
+            {
+                '_districtid': '533123000000',
+                '_districtname': '盈江县',
+                '_cityid': '533100000000'
+            },
+            {
+                '_districtid': '533124000000',
+                '_districtname': '陇川县',
+                '_cityid': '533100000000'
+            }
+        ],
+        '533300000000': [
+            {
+                '_districtid': '533301000000',
+                '_districtname': '泸水市',
+                '_cityid': '533300000000'
+            },
+            {
+                '_districtid': '533323000000',
+                '_districtname': '福贡县',
+                '_cityid': '533300000000'
+            },
+            {
+                '_districtid': '533324000000',
+                '_districtname': '贡山独龙族怒族自治县',
+                '_cityid': '533300000000'
+            },
+            {
+                '_districtid': '533325000000',
+                '_districtname': '兰坪白族普米族自治县',
+                '_cityid': '533300000000'
+            }
+        ],
+        '533400000000': [
+            {
+                '_districtid': '533401000000',
+                '_districtname': '香格里拉市',
+                '_cityid': '533400000000'
+            },
+            {
+                '_districtid': '533422000000',
+                '_districtname': '德钦县',
+                '_cityid': '533400000000'
+            },
+            {
+                '_districtid': '533423000000',
+                '_districtname': '维西傈僳族自治县',
+                '_cityid': '533400000000'
+            }
+        ],
+        '540100000000': [
+            {
+                '_districtid': '540101000000',
+                '_districtname': '市辖区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540102000000',
+                '_districtname': '城关区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540103000000',
+                '_districtname': '堆龙德庆区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540104000000',
+                '_districtname': '达孜区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540121000000',
+                '_districtname': '林周县',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540122000000',
+                '_districtname': '当雄县',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540123000000',
+                '_districtname': '尼木县',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540124000000',
+                '_districtname': '曲水县',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540127000000',
+                '_districtname': '墨竹工卡县',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540171000000',
+                '_districtname': '格尔木藏青工业园区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540172000000',
+                '_districtname': '拉萨经济技术开发区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540173000000',
+                '_districtname': '西藏文化旅游创意园区',
+                '_cityid': '540100000000'
+            },
+            {
+                '_districtid': '540174000000',
+                '_districtname': '达孜工业园区',
+                '_cityid': '540100000000'
+            }
+        ],
+        '540200000000': [
+            {
+                '_districtid': '540202000000',
+                '_districtname': '桑珠孜区',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540221000000',
+                '_districtname': '南木林县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540222000000',
+                '_districtname': '江孜县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540223000000',
+                '_districtname': '定日县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540224000000',
+                '_districtname': '萨迦县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540225000000',
+                '_districtname': '拉孜县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540226000000',
+                '_districtname': '昂仁县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540227000000',
+                '_districtname': '谢通门县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540228000000',
+                '_districtname': '白朗县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540229000000',
+                '_districtname': '仁布县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540230000000',
+                '_districtname': '康马县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540231000000',
+                '_districtname': '定结县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540232000000',
+                '_districtname': '仲巴县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540233000000',
+                '_districtname': '亚东县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540234000000',
+                '_districtname': '吉隆县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540235000000',
+                '_districtname': '聂拉木县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540236000000',
+                '_districtname': '萨嘎县',
+                '_cityid': '540200000000'
+            },
+            {
+                '_districtid': '540237000000',
+                '_districtname': '岗巴县',
+                '_cityid': '540200000000'
+            }
+        ],
+        '540300000000': [
+            {
+                '_districtid': '540302000000',
+                '_districtname': '卡若区',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540321000000',
+                '_districtname': '江达县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540322000000',
+                '_districtname': '贡觉县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540323000000',
+                '_districtname': '类乌齐县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540324000000',
+                '_districtname': '丁青县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540325000000',
+                '_districtname': '察雅县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540326000000',
+                '_districtname': '八宿县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540327000000',
+                '_districtname': '左贡县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540328000000',
+                '_districtname': '芒康县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540329000000',
+                '_districtname': '洛隆县',
+                '_cityid': '540300000000'
+            },
+            {
+                '_districtid': '540330000000',
+                '_districtname': '边坝县',
+                '_cityid': '540300000000'
+            }
+        ],
+        '540400000000': [
+            {
+                '_districtid': '540402000000',
+                '_districtname': '巴宜区',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540421000000',
+                '_districtname': '工布江达县',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540422000000',
+                '_districtname': '米林县',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540423000000',
+                '_districtname': '墨脱县',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540424000000',
+                '_districtname': '波密县',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540425000000',
+                '_districtname': '察隅县',
+                '_cityid': '540400000000'
+            },
+            {
+                '_districtid': '540426000000',
+                '_districtname': '朗县',
+                '_cityid': '540400000000'
+            }
+        ],
+        '540500000000': [
+            {
+                '_districtid': '540501000000',
+                '_districtname': '市辖区',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540502000000',
+                '_districtname': '乃东区',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540521000000',
+                '_districtname': '扎囊县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540522000000',
+                '_districtname': '贡嘎县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540523000000',
+                '_districtname': '桑日县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540524000000',
+                '_districtname': '琼结县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540525000000',
+                '_districtname': '曲松县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540526000000',
+                '_districtname': '措美县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540527000000',
+                '_districtname': '洛扎县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540528000000',
+                '_districtname': '加查县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540529000000',
+                '_districtname': '隆子县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540530000000',
+                '_districtname': '错那县',
+                '_cityid': '540500000000'
+            },
+            {
+                '_districtid': '540531000000',
+                '_districtname': '浪卡子县',
+                '_cityid': '540500000000'
+            }
+        ],
+        '540600000000': [
+            {
+                '_districtid': '540602000000',
+                '_districtname': '色尼区',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540621000000',
+                '_districtname': '嘉黎县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540622000000',
+                '_districtname': '比如县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540623000000',
+                '_districtname': '聂荣县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540624000000',
+                '_districtname': '安多县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540625000000',
+                '_districtname': '申扎县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540626000000',
+                '_districtname': '索县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540627000000',
+                '_districtname': '班戈县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540628000000',
+                '_districtname': '巴青县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540629000000',
+                '_districtname': '尼玛县',
+                '_cityid': '540600000000'
+            },
+            {
+                '_districtid': '540630000000',
+                '_districtname': '双湖县',
+                '_cityid': '540600000000'
+            }
+        ],
+        '542500000000': [
+            {
+                '_districtid': '542521000000',
+                '_districtname': '普兰县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542522000000',
+                '_districtname': '札达县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542523000000',
+                '_districtname': '噶尔县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542524000000',
+                '_districtname': '日土县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542525000000',
+                '_districtname': '革吉县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542526000000',
+                '_districtname': '改则县',
+                '_cityid': '542500000000'
+            },
+            {
+                '_districtid': '542527000000',
+                '_districtname': '措勤县',
+                '_cityid': '542500000000'
+            }
+        ],
+        '610200000000': [
+            {
+                '_districtid': '610201000000',
+                '_districtname': '市辖区',
+                '_cityid': '610200000000'
+            },
+            {
+                '_districtid': '610202000000',
+                '_districtname': '王益区',
+                '_cityid': '610200000000'
+            },
+            {
+                '_districtid': '610203000000',
+                '_districtname': '印台区',
+                '_cityid': '610200000000'
+            },
+            {
+                '_districtid': '610204000000',
+                '_districtname': '耀州区',
+                '_cityid': '610200000000'
+            },
+            {
+                '_districtid': '610222000000',
+                '_districtname': '宜君县',
+                '_cityid': '610200000000'
+            }
+        ],
+        '610300000000': [
+            {
+                '_districtid': '610301000000',
+                '_districtname': '市辖区',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610302000000',
+                '_districtname': '渭滨区',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610303000000',
+                '_districtname': '金台区',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610304000000',
+                '_districtname': '陈仓区',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610322000000',
+                '_districtname': '凤翔县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610323000000',
+                '_districtname': '岐山县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610324000000',
+                '_districtname': '扶风县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610326000000',
+                '_districtname': '眉县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610327000000',
+                '_districtname': '陇县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610328000000',
+                '_districtname': '千阳县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610329000000',
+                '_districtname': '麟游县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610330000000',
+                '_districtname': '凤县',
+                '_cityid': '610300000000'
+            },
+            {
+                '_districtid': '610331000000',
+                '_districtname': '太白县',
+                '_cityid': '610300000000'
+            }
+        ],
+        '610400000000': [
+            {
+                '_districtid': '610401000000',
+                '_districtname': '市辖区',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610402000000',
+                '_districtname': '秦都区',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610403000000',
+                '_districtname': '杨陵区',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610404000000',
+                '_districtname': '渭城区',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610422000000',
+                '_districtname': '三原县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610423000000',
+                '_districtname': '泾阳县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610424000000',
+                '_districtname': '乾县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610425000000',
+                '_districtname': '礼泉县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610426000000',
+                '_districtname': '永寿县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610428000000',
+                '_districtname': '长武县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610429000000',
+                '_districtname': '旬邑县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610430000000',
+                '_districtname': '淳化县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610431000000',
+                '_districtname': '武功县',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610481000000',
+                '_districtname': '兴平市',
+                '_cityid': '610400000000'
+            },
+            {
+                '_districtid': '610482000000',
+                '_districtname': '彬州市',
+                '_cityid': '610400000000'
+            }
+        ],
+        '610500000000': [
+            {
+                '_districtid': '610501000000',
+                '_districtname': '市辖区',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610502000000',
+                '_districtname': '临渭区',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610503000000',
+                '_districtname': '华州区',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610522000000',
+                '_districtname': '潼关县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610523000000',
+                '_districtname': '大荔县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610524000000',
+                '_districtname': '合阳县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610525000000',
+                '_districtname': '澄城县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610526000000',
+                '_districtname': '蒲城县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610527000000',
+                '_districtname': '白水县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610528000000',
+                '_districtname': '富平县',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610581000000',
+                '_districtname': '韩城市',
+                '_cityid': '610500000000'
+            },
+            {
+                '_districtid': '610582000000',
+                '_districtname': '华阴市',
+                '_cityid': '610500000000'
+            }
+        ],
+        '610600000000': [
+            {
+                '_districtid': '610601000000',
+                '_districtname': '市辖区',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610602000000',
+                '_districtname': '宝塔区',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610603000000',
+                '_districtname': '安塞区',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610621000000',
+                '_districtname': '延长县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610622000000',
+                '_districtname': '延川县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610625000000',
+                '_districtname': '志丹县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610626000000',
+                '_districtname': '吴起县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610627000000',
+                '_districtname': '甘泉县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610628000000',
+                '_districtname': '富县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610629000000',
+                '_districtname': '洛川县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610630000000',
+                '_districtname': '宜川县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610631000000',
+                '_districtname': '黄龙县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610632000000',
+                '_districtname': '黄陵县',
+                '_cityid': '610600000000'
+            },
+            {
+                '_districtid': '610681000000',
+                '_districtname': '子长市',
+                '_cityid': '610600000000'
+            }
+        ],
+        '610700000000': [
+            {
+                '_districtid': '610701000000',
+                '_districtname': '市辖区',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610702000000',
+                '_districtname': '汉台区',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610703000000',
+                '_districtname': '南郑区',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610722000000',
+                '_districtname': '城固县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610723000000',
+                '_districtname': '洋县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610724000000',
+                '_districtname': '西乡县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610725000000',
+                '_districtname': '勉县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610726000000',
+                '_districtname': '宁强县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610727000000',
+                '_districtname': '略阳县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610728000000',
+                '_districtname': '镇巴县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610729000000',
+                '_districtname': '留坝县',
+                '_cityid': '610700000000'
+            },
+            {
+                '_districtid': '610730000000',
+                '_districtname': '佛坪县',
+                '_cityid': '610700000000'
+            }
+        ],
+        '610800000000': [
+            {
+                '_districtid': '610801000000',
+                '_districtname': '市辖区',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610802000000',
+                '_districtname': '榆阳区',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610803000000',
+                '_districtname': '横山区',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610822000000',
+                '_districtname': '府谷县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610824000000',
+                '_districtname': '靖边县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610825000000',
+                '_districtname': '定边县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610826000000',
+                '_districtname': '绥德县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610827000000',
+                '_districtname': '米脂县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610828000000',
+                '_districtname': '佳县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610829000000',
+                '_districtname': '吴堡县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610830000000',
+                '_districtname': '清涧县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610831000000',
+                '_districtname': '子洲县',
+                '_cityid': '610800000000'
+            },
+            {
+                '_districtid': '610881000000',
+                '_districtname': '神木市',
+                '_cityid': '610800000000'
+            }
+        ],
+        '610900000000': [
+            {
+                '_districtid': '610901000000',
+                '_districtname': '市辖区',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610902000000',
+                '_districtname': '汉滨区',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610921000000',
+                '_districtname': '汉阴县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610922000000',
+                '_districtname': '石泉县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610923000000',
+                '_districtname': '宁陕县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610924000000',
+                '_districtname': '紫阳县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610925000000',
+                '_districtname': '岚皋县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610926000000',
+                '_districtname': '平利县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610927000000',
+                '_districtname': '镇坪县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610928000000',
+                '_districtname': '旬阳县',
+                '_cityid': '610900000000'
+            },
+            {
+                '_districtid': '610929000000',
+                '_districtname': '白河县',
+                '_cityid': '610900000000'
+            }
+        ],
+        '611000000000': [
+            {
+                '_districtid': '611001000000',
+                '_districtname': '市辖区',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611002000000',
+                '_districtname': '商州区',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611021000000',
+                '_districtname': '洛南县',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611022000000',
+                '_districtname': '丹凤县',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611023000000',
+                '_districtname': '商南县',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611024000000',
+                '_districtname': '山阳县',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611025000000',
+                '_districtname': '镇安县',
+                '_cityid': '611000000000'
+            },
+            {
+                '_districtid': '611026000000',
+                '_districtname': '柞水县',
+                '_cityid': '611000000000'
+            }
+        ],
+        '620100000000': [
+            {
+                '_districtid': '620101000000',
+                '_districtname': '市辖区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620102000000',
+                '_districtname': '城关区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620103000000',
+                '_districtname': '七里河区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620104000000',
+                '_districtname': '西固区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620105000000',
+                '_districtname': '安宁区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620111000000',
+                '_districtname': '红古区',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620121000000',
+                '_districtname': '永登县',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620122000000',
+                '_districtname': '皋兰县',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620123000000',
+                '_districtname': '榆中县',
+                '_cityid': '620100000000'
+            },
+            {
+                '_districtid': '620171000000',
+                '_districtname': '兰州新区',
+                '_cityid': '620100000000'
+            }
+        ],
+        '620200000000': [
+            {
+                '_districtid': '620201000000',
+                '_districtname': '市辖区',
+                '_cityid': '620200000000'
+            }
+        ],
+        '620300000000': [
+            {
+                '_districtid': '620301000000',
+                '_districtname': '市辖区',
+                '_cityid': '620300000000'
+            },
+            {
+                '_districtid': '620302000000',
+                '_districtname': '金川区',
+                '_cityid': '620300000000'
+            },
+            {
+                '_districtid': '620321000000',
+                '_districtname': '永昌县',
+                '_cityid': '620300000000'
+            }
+        ],
+        '620400000000': [
+            {
+                '_districtid': '620401000000',
+                '_districtname': '市辖区',
+                '_cityid': '620400000000'
+            },
+            {
+                '_districtid': '620402000000',
+                '_districtname': '白银区',
+                '_cityid': '620400000000'
+            },
+            {
+                '_districtid': '620403000000',
+                '_districtname': '平川区',
+                '_cityid': '620400000000'
+            },
+            {
+                '_districtid': '620421000000',
+                '_districtname': '靖远县',
+                '_cityid': '620400000000'
+            },
+            {
+                '_districtid': '620422000000',
+                '_districtname': '会宁县',
+                '_cityid': '620400000000'
+            },
+            {
+                '_districtid': '620423000000',
+                '_districtname': '景泰县',
+                '_cityid': '620400000000'
+            }
+        ],
+        '620500000000': [
+            {
+                '_districtid': '620501000000',
+                '_districtname': '市辖区',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620502000000',
+                '_districtname': '秦州区',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620503000000',
+                '_districtname': '麦积区',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620521000000',
+                '_districtname': '清水县',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620522000000',
+                '_districtname': '秦安县',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620523000000',
+                '_districtname': '甘谷县',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620524000000',
+                '_districtname': '武山县',
+                '_cityid': '620500000000'
+            },
+            {
+                '_districtid': '620525000000',
+                '_districtname': '张家川回族自治县',
+                '_cityid': '620500000000'
+            }
+        ],
+        '620600000000': [
+            {
+                '_districtid': '620601000000',
+                '_districtname': '市辖区',
+                '_cityid': '620600000000'
+            },
+            {
+                '_districtid': '620602000000',
+                '_districtname': '凉州区',
+                '_cityid': '620600000000'
+            },
+            {
+                '_districtid': '620621000000',
+                '_districtname': '民勤县',
+                '_cityid': '620600000000'
+            },
+            {
+                '_districtid': '620622000000',
+                '_districtname': '古浪县',
+                '_cityid': '620600000000'
+            },
+            {
+                '_districtid': '620623000000',
+                '_districtname': '天祝藏族自治县',
+                '_cityid': '620600000000'
+            }
+        ],
+        '620700000000': [
+            {
+                '_districtid': '620701000000',
+                '_districtname': '市辖区',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620702000000',
+                '_districtname': '甘州区',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620721000000',
+                '_districtname': '肃南裕固族自治县',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620722000000',
+                '_districtname': '民乐县',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620723000000',
+                '_districtname': '临泽县',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620724000000',
+                '_districtname': '高台县',
+                '_cityid': '620700000000'
+            },
+            {
+                '_districtid': '620725000000',
+                '_districtname': '山丹县',
+                '_cityid': '620700000000'
+            }
+        ],
+        '620800000000': [
+            {
+                '_districtid': '620801000000',
+                '_districtname': '市辖区',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620802000000',
+                '_districtname': '崆峒区',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620821000000',
+                '_districtname': '泾川县',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620822000000',
+                '_districtname': '灵台县',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620823000000',
+                '_districtname': '崇信县',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620825000000',
+                '_districtname': '庄浪县',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620826000000',
+                '_districtname': '静宁县',
+                '_cityid': '620800000000'
+            },
+            {
+                '_districtid': '620881000000',
+                '_districtname': '华亭市',
+                '_cityid': '620800000000'
+            }
+        ],
+        '620900000000': [
+            {
+                '_districtid': '620901000000',
+                '_districtname': '市辖区',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620902000000',
+                '_districtname': '肃州区',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620921000000',
+                '_districtname': '金塔县',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620922000000',
+                '_districtname': '瓜州县',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620923000000',
+                '_districtname': '肃北蒙古族自治县',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620924000000',
+                '_districtname': '阿克塞哈萨克族自治县',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620981000000',
+                '_districtname': '玉门市',
+                '_cityid': '620900000000'
+            },
+            {
+                '_districtid': '620982000000',
+                '_districtname': '敦煌市',
+                '_cityid': '620900000000'
+            }
+        ],
+        '621000000000': [
+            {
+                '_districtid': '621001000000',
+                '_districtname': '市辖区',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621002000000',
+                '_districtname': '西峰区',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621021000000',
+                '_districtname': '庆城县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621022000000',
+                '_districtname': '环县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621023000000',
+                '_districtname': '华池县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621024000000',
+                '_districtname': '合水县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621025000000',
+                '_districtname': '正宁县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621026000000',
+                '_districtname': '宁县',
+                '_cityid': '621000000000'
+            },
+            {
+                '_districtid': '621027000000',
+                '_districtname': '镇原县',
+                '_cityid': '621000000000'
+            }
+        ],
+        '621100000000': [
+            {
+                '_districtid': '621101000000',
+                '_districtname': '市辖区',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621102000000',
+                '_districtname': '安定区',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621121000000',
+                '_districtname': '通渭县',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621122000000',
+                '_districtname': '陇西县',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621123000000',
+                '_districtname': '渭源县',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621124000000',
+                '_districtname': '临洮县',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621125000000',
+                '_districtname': '漳县',
+                '_cityid': '621100000000'
+            },
+            {
+                '_districtid': '621126000000',
+                '_districtname': '岷县',
+                '_cityid': '621100000000'
+            }
+        ],
+        '621200000000': [
+            {
+                '_districtid': '621201000000',
+                '_districtname': '市辖区',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621202000000',
+                '_districtname': '武都区',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621221000000',
+                '_districtname': '成县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621222000000',
+                '_districtname': '文县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621223000000',
+                '_districtname': '宕昌县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621224000000',
+                '_districtname': '康县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621225000000',
+                '_districtname': '西和县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621226000000',
+                '_districtname': '礼县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621227000000',
+                '_districtname': '徽县',
+                '_cityid': '621200000000'
+            },
+            {
+                '_districtid': '621228000000',
+                '_districtname': '两当县',
+                '_cityid': '621200000000'
+            }
+        ],
+        '622900000000': [
+            {
+                '_districtid': '622901000000',
+                '_districtname': '临夏市',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622921000000',
+                '_districtname': '临夏县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622922000000',
+                '_districtname': '康乐县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622923000000',
+                '_districtname': '永靖县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622924000000',
+                '_districtname': '广河县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622925000000',
+                '_districtname': '和政县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622926000000',
+                '_districtname': '东乡族自治县',
+                '_cityid': '622900000000'
+            },
+            {
+                '_districtid': '622927000000',
+                '_districtname': '积石山保安族东乡族撒拉族自治县',
+                '_cityid': '622900000000'
+            }
+        ],
+        '623000000000': [
+            {
+                '_districtid': '623001000000',
+                '_districtname': '合作市',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623021000000',
+                '_districtname': '临潭县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623022000000',
+                '_districtname': '卓尼县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623023000000',
+                '_districtname': '舟曲县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623024000000',
+                '_districtname': '迭部县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623025000000',
+                '_districtname': '玛曲县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623026000000',
+                '_districtname': '碌曲县',
+                '_cityid': '623000000000'
+            },
+            {
+                '_districtid': '623027000000',
+                '_districtname': '夏河县',
+                '_cityid': '623000000000'
+            }
+        ],
+        '630100000000': [
+            {
+                '_districtid': '630101000000',
+                '_districtname': '市辖区',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630102000000',
+                '_districtname': '城东区',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630103000000',
+                '_districtname': '城中区',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630104000000',
+                '_districtname': '城西区',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630105000000',
+                '_districtname': '城北区',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630121000000',
+                '_districtname': '大通回族土族自治县',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630122000000',
+                '_districtname': '湟中县',
+                '_cityid': '630100000000'
+            },
+            {
+                '_districtid': '630123000000',
+                '_districtname': '湟源县',
+                '_cityid': '630100000000'
+            }
+        ],
+        '630200000000': [
+            {
+                '_districtid': '630202000000',
+                '_districtname': '乐都区',
+                '_cityid': '630200000000'
+            },
+            {
+                '_districtid': '630203000000',
+                '_districtname': '平安区',
+                '_cityid': '630200000000'
+            },
+            {
+                '_districtid': '630222000000',
+                '_districtname': '民和回族土族自治县',
+                '_cityid': '630200000000'
+            },
+            {
+                '_districtid': '630223000000',
+                '_districtname': '互助土族自治县',
+                '_cityid': '630200000000'
+            },
+            {
+                '_districtid': '630224000000',
+                '_districtname': '化隆回族自治县',
+                '_cityid': '630200000000'
+            },
+            {
+                '_districtid': '630225000000',
+                '_districtname': '循化撒拉族自治县',
+                '_cityid': '630200000000'
+            }
+        ],
+        '632200000000': [
+            {
+                '_districtid': '632221000000',
+                '_districtname': '门源回族自治县',
+                '_cityid': '632200000000'
+            },
+            {
+                '_districtid': '632222000000',
+                '_districtname': '祁连县',
+                '_cityid': '632200000000'
+            },
+            {
+                '_districtid': '632223000000',
+                '_districtname': '海晏县',
+                '_cityid': '632200000000'
+            },
+            {
+                '_districtid': '632224000000',
+                '_districtname': '刚察县',
+                '_cityid': '632200000000'
+            }
+        ],
+        '632300000000': [
+            {
+                '_districtid': '632321000000',
+                '_districtname': '同仁县',
+                '_cityid': '632300000000'
+            },
+            {
+                '_districtid': '632322000000',
+                '_districtname': '尖扎县',
+                '_cityid': '632300000000'
+            },
+            {
+                '_districtid': '632323000000',
+                '_districtname': '泽库县',
+                '_cityid': '632300000000'
+            },
+            {
+                '_districtid': '632324000000',
+                '_districtname': '河南蒙古族自治县',
+                '_cityid': '632300000000'
+            }
+        ],
+        '632500000000': [
+            {
+                '_districtid': '632521000000',
+                '_districtname': '共和县',
+                '_cityid': '632500000000'
+            },
+            {
+                '_districtid': '632522000000',
+                '_districtname': '同德县',
+                '_cityid': '632500000000'
+            },
+            {
+                '_districtid': '632523000000',
+                '_districtname': '贵德县',
+                '_cityid': '632500000000'
+            },
+            {
+                '_districtid': '632524000000',
+                '_districtname': '兴海县',
+                '_cityid': '632500000000'
+            },
+            {
+                '_districtid': '632525000000',
+                '_districtname': '贵南县',
+                '_cityid': '632500000000'
+            }
+        ],
+        '632600000000': [
+            {
+                '_districtid': '632621000000',
+                '_districtname': '玛沁县',
+                '_cityid': '632600000000'
+            },
+            {
+                '_districtid': '632622000000',
+                '_districtname': '班玛县',
+                '_cityid': '632600000000'
+            },
+            {
+                '_districtid': '632623000000',
+                '_districtname': '甘德县',
+                '_cityid': '632600000000'
+            },
+            {
+                '_districtid': '632624000000',
+                '_districtname': '达日县',
+                '_cityid': '632600000000'
+            },
+            {
+                '_districtid': '632625000000',
+                '_districtname': '久治县',
+                '_cityid': '632600000000'
+            },
+            {
+                '_districtid': '632626000000',
+                '_districtname': '玛多县',
+                '_cityid': '632600000000'
+            }
+        ],
+        '632700000000': [
+            {
+                '_districtid': '632701000000',
+                '_districtname': '玉树市',
+                '_cityid': '632700000000'
+            },
+            {
+                '_districtid': '632722000000',
+                '_districtname': '杂多县',
+                '_cityid': '632700000000'
+            },
+            {
+                '_districtid': '632723000000',
+                '_districtname': '称多县',
+                '_cityid': '632700000000'
+            },
+            {
+                '_districtid': '632724000000',
+                '_districtname': '治多县',
+                '_cityid': '632700000000'
+            },
+            {
+                '_districtid': '632725000000',
+                '_districtname': '囊谦县',
+                '_cityid': '632700000000'
+            },
+            {
+                '_districtid': '632726000000',
+                '_districtname': '曲麻莱县',
+                '_cityid': '632700000000'
+            }
+        ],
+        '632800000000': [
+            {
+                '_districtid': '632801000000',
+                '_districtname': '格尔木市',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632802000000',
+                '_districtname': '德令哈市',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632803000000',
+                '_districtname': '茫崖市',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632821000000',
+                '_districtname': '乌兰县',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632822000000',
+                '_districtname': '都兰县',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632823000000',
+                '_districtname': '天峻县',
+                '_cityid': '632800000000'
+            },
+            {
+                '_districtid': '632857000000',
+                '_districtname': '大柴旦行政委员会',
+                '_cityid': '632800000000'
+            }
+        ],
+        '640100000000': [
+            {
+                '_districtid': '640101000000',
+                '_districtname': '市辖区',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640104000000',
+                '_districtname': '兴庆区',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640105000000',
+                '_districtname': '西夏区',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640106000000',
+                '_districtname': '金凤区',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640121000000',
+                '_districtname': '永宁县',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640122000000',
+                '_districtname': '贺兰县',
+                '_cityid': '640100000000'
+            },
+            {
+                '_districtid': '640181000000',
+                '_districtname': '灵武市',
+                '_cityid': '640100000000'
+            }
+        ],
+        '640200000000': [
+            {
+                '_districtid': '640201000000',
+                '_districtname': '市辖区',
+                '_cityid': '640200000000'
+            },
+            {
+                '_districtid': '640202000000',
+                '_districtname': '大武口区',
+                '_cityid': '640200000000'
+            },
+            {
+                '_districtid': '640205000000',
+                '_districtname': '惠农区',
+                '_cityid': '640200000000'
+            },
+            {
+                '_districtid': '640221000000',
+                '_districtname': '平罗县',
+                '_cityid': '640200000000'
+            }
+        ],
+        '640300000000': [
+            {
+                '_districtid': '640301000000',
+                '_districtname': '市辖区',
+                '_cityid': '640300000000'
+            },
+            {
+                '_districtid': '640302000000',
+                '_districtname': '利通区',
+                '_cityid': '640300000000'
+            },
+            {
+                '_districtid': '640303000000',
+                '_districtname': '红寺堡区',
+                '_cityid': '640300000000'
+            },
+            {
+                '_districtid': '640323000000',
+                '_districtname': '盐池县',
+                '_cityid': '640300000000'
+            },
+            {
+                '_districtid': '640324000000',
+                '_districtname': '同心县',
+                '_cityid': '640300000000'
+            },
+            {
+                '_districtid': '640381000000',
+                '_districtname': '青铜峡市',
+                '_cityid': '640300000000'
+            }
+        ],
+        '640400000000': [
+            {
+                '_districtid': '640401000000',
+                '_districtname': '市辖区',
+                '_cityid': '640400000000'
+            },
+            {
+                '_districtid': '640402000000',
+                '_districtname': '原州区',
+                '_cityid': '640400000000'
+            },
+            {
+                '_districtid': '640422000000',
+                '_districtname': '西吉县',
+                '_cityid': '640400000000'
+            },
+            {
+                '_districtid': '640423000000',
+                '_districtname': '隆德县',
+                '_cityid': '640400000000'
+            },
+            {
+                '_districtid': '640424000000',
+                '_districtname': '泾源县',
+                '_cityid': '640400000000'
+            },
+            {
+                '_districtid': '640425000000',
+                '_districtname': '彭阳县',
+                '_cityid': '640400000000'
+            }
+        ],
+        '640500000000': [
+            {
+                '_districtid': '640501000000',
+                '_districtname': '市辖区',
+                '_cityid': '640500000000'
+            },
+            {
+                '_districtid': '640502000000',
+                '_districtname': '沙坡头区',
+                '_cityid': '640500000000'
+            },
+            {
+                '_districtid': '640521000000',
+                '_districtname': '中宁县',
+                '_cityid': '640500000000'
+            },
+            {
+                '_districtid': '640522000000',
+                '_districtname': '海原县',
+                '_cityid': '640500000000'
+            }
+        ],
+        '650100000000': [
+            {
+                '_districtid': '650101000000',
+                '_districtname': '市辖区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650102000000',
+                '_districtname': '天山区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650103000000',
+                '_districtname': '沙依巴克区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650104000000',
+                '_districtname': '新市区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650105000000',
+                '_districtname': '水磨沟区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650106000000',
+                '_districtname': '头屯河区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650107000000',
+                '_districtname': '达坂城区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650109000000',
+                '_districtname': '米东区',
+                '_cityid': '650100000000'
+            },
+            {
+                '_districtid': '650121000000',
+                '_districtname': '乌鲁木齐县',
+                '_cityid': '650100000000'
+            }
+        ],
+        '650200000000': [
+            {
+                '_districtid': '650201000000',
+                '_districtname': '市辖区',
+                '_cityid': '650200000000'
+            },
+            {
+                '_districtid': '650202000000',
+                '_districtname': '独山子区',
+                '_cityid': '650200000000'
+            },
+            {
+                '_districtid': '650203000000',
+                '_districtname': '克拉玛依区',
+                '_cityid': '650200000000'
+            },
+            {
+                '_districtid': '650204000000',
+                '_districtname': '白碱滩区',
+                '_cityid': '650200000000'
+            },
+            {
+                '_districtid': '650205000000',
+                '_districtname': '乌尔禾区',
+                '_cityid': '650200000000'
+            }
+        ],
+        '650400000000': [
+            {
+                '_districtid': '650402000000',
+                '_districtname': '高昌区',
+                '_cityid': '650400000000'
+            },
+            {
+                '_districtid': '650421000000',
+                '_districtname': '鄯善县',
+                '_cityid': '650400000000'
+            },
+            {
+                '_districtid': '650422000000',
+                '_districtname': '托克逊县',
+                '_cityid': '650400000000'
+            }
+        ],
+        '650500000000': [
+            {
+                '_districtid': '650502000000',
+                '_districtname': '伊州区',
+                '_cityid': '650500000000'
+            },
+            {
+                '_districtid': '650521000000',
+                '_districtname': '巴里坤哈萨克自治县',
+                '_cityid': '650500000000'
+            },
+            {
+                '_districtid': '650522000000',
+                '_districtname': '伊吾县',
+                '_cityid': '650500000000'
+            }
+        ],
+        '652300000000': [
+            {
+                '_districtid': '652301000000',
+                '_districtname': '昌吉市',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652302000000',
+                '_districtname': '阜康市',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652323000000',
+                '_districtname': '呼图壁县',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652324000000',
+                '_districtname': '玛纳斯县',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652325000000',
+                '_districtname': '奇台县',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652327000000',
+                '_districtname': '吉木萨尔县',
+                '_cityid': '652300000000'
+            },
+            {
+                '_districtid': '652328000000',
+                '_districtname': '木垒哈萨克自治县',
+                '_cityid': '652300000000'
+            }
+        ],
+        '652700000000': [
+            {
+                '_districtid': '652701000000',
+                '_districtname': '博乐市',
+                '_cityid': '652700000000'
+            },
+            {
+                '_districtid': '652702000000',
+                '_districtname': '阿拉山口市',
+                '_cityid': '652700000000'
+            },
+            {
+                '_districtid': '652722000000',
+                '_districtname': '精河县',
+                '_cityid': '652700000000'
+            },
+            {
+                '_districtid': '652723000000',
+                '_districtname': '温泉县',
+                '_cityid': '652700000000'
+            }
+        ],
+        '652800000000': [
+            {
+                '_districtid': '652801000000',
+                '_districtname': '库尔勒市',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652822000000',
+                '_districtname': '轮台县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652823000000',
+                '_districtname': '尉犁县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652824000000',
+                '_districtname': '若羌县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652825000000',
+                '_districtname': '且末县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652826000000',
+                '_districtname': '焉耆回族自治县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652827000000',
+                '_districtname': '和静县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652828000000',
+                '_districtname': '和硕县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652829000000',
+                '_districtname': '博湖县',
+                '_cityid': '652800000000'
+            },
+            {
+                '_districtid': '652871000000',
+                '_districtname': '库尔勒经济技术开发区',
+                '_cityid': '652800000000'
+            }
+        ],
+        '652900000000': [
+            {
+                '_districtid': '652901000000',
+                '_districtname': '阿克苏市',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652922000000',
+                '_districtname': '温宿县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652923000000',
+                '_districtname': '库车县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652924000000',
+                '_districtname': '沙雅县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652925000000',
+                '_districtname': '新和县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652926000000',
+                '_districtname': '拜城县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652927000000',
+                '_districtname': '乌什县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652928000000',
+                '_districtname': '阿瓦提县',
+                '_cityid': '652900000000'
+            },
+            {
+                '_districtid': '652929000000',
+                '_districtname': '柯坪县',
+                '_cityid': '652900000000'
+            }
+        ],
+        '653000000000': [
+            {
+                '_districtid': '653001000000',
+                '_districtname': '阿图什市',
+                '_cityid': '653000000000'
+            },
+            {
+                '_districtid': '653022000000',
+                '_districtname': '阿克陶县',
+                '_cityid': '653000000000'
+            },
+            {
+                '_districtid': '653023000000',
+                '_districtname': '阿合奇县',
+                '_cityid': '653000000000'
+            },
+            {
+                '_districtid': '653024000000',
+                '_districtname': '乌恰县',
+                '_cityid': '653000000000'
+            }
+        ],
+        '653100000000': [
+            {
+                '_districtid': '653101000000',
+                '_districtname': '喀什市',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653121000000',
+                '_districtname': '疏附县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653122000000',
+                '_districtname': '疏勒县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653123000000',
+                '_districtname': '英吉沙县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653124000000',
+                '_districtname': '泽普县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653125000000',
+                '_districtname': '莎车县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653126000000',
+                '_districtname': '叶城县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653127000000',
+                '_districtname': '麦盖提县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653128000000',
+                '_districtname': '岳普湖县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653129000000',
+                '_districtname': '伽师县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653130000000',
+                '_districtname': '巴楚县',
+                '_cityid': '653100000000'
+            },
+            {
+                '_districtid': '653131000000',
+                '_districtname': '塔什库尔干塔吉克自治县',
+                '_cityid': '653100000000'
+            }
+        ],
+        '653200000000': [
+            {
+                '_districtid': '653201000000',
+                '_districtname': '和田市',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653221000000',
+                '_districtname': '和田县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653222000000',
+                '_districtname': '墨玉县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653223000000',
+                '_districtname': '皮山县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653224000000',
+                '_districtname': '洛浦县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653225000000',
+                '_districtname': '策勒县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653226000000',
+                '_districtname': '于田县',
+                '_cityid': '653200000000'
+            },
+            {
+                '_districtid': '653227000000',
+                '_districtname': '民丰县',
+                '_cityid': '653200000000'
+            }
+        ],
+        '654000000000': [
+            {
+                '_districtid': '654002000000',
+                '_districtname': '伊宁市',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654003000000',
+                '_districtname': '奎屯市',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654004000000',
+                '_districtname': '霍尔果斯市',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654021000000',
+                '_districtname': '伊宁县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654022000000',
+                '_districtname': '察布查尔锡伯自治县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654023000000',
+                '_districtname': '霍城县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654024000000',
+                '_districtname': '巩留县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654025000000',
+                '_districtname': '新源县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654026000000',
+                '_districtname': '昭苏县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654027000000',
+                '_districtname': '特克斯县',
+                '_cityid': '654000000000'
+            },
+            {
+                '_districtid': '654028000000',
+                '_districtname': '尼勒克县',
+                '_cityid': '654000000000'
+            }
+        ],
+        '654200000000': [
+            {
+                '_districtid': '654201000000',
+                '_districtname': '塔城市',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654202000000',
+                '_districtname': '乌苏市',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654221000000',
+                '_districtname': '额敏县',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654223000000',
+                '_districtname': '沙湾县',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654224000000',
+                '_districtname': '托里县',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654225000000',
+                '_districtname': '裕民县',
+                '_cityid': '654200000000'
+            },
+            {
+                '_districtid': '654226000000',
+                '_districtname': '和布克赛尔蒙古自治县',
+                '_cityid': '654200000000'
+            }
+        ],
+        '654300000000': [
+            {
+                '_districtid': '654301000000',
+                '_districtname': '阿勒泰市',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654321000000',
+                '_districtname': '布尔津县',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654322000000',
+                '_districtname': '富蕴县',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654323000000',
+                '_districtname': '福海县',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654324000000',
+                '_districtname': '哈巴河县',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654325000000',
+                '_districtname': '青河县',
+                '_cityid': '654300000000'
+            },
+            {
+                '_districtid': '654326000000',
+                '_districtname': '吉木乃县',
+                '_cityid': '654300000000'
+            }
+        ],
+        '659000000000': [
+            {
+                '_districtid': '659001000000',
+                '_districtname': '石河子市',
+                '_cityid': '659000000000'
+            },
+            {
+                '_districtid': '659002000000',
+                '_districtname': '阿拉尔市',
+                '_cityid': '659000000000'
+            },
+            {
+                '_districtid': '659003000000',
+                '_districtname': '图木舒克市',
+                '_cityid': '659000000000'
+            },
+            {
+                '_districtid': '659004000000',
+                '_districtname': '五家渠市',
+                '_cityid': '659000000000'
+            },
+            {
+                '_districtid': '659006000000',
+                '_districtname': '铁门关市',
+                '_cityid': '659000000000'
+            }
+        ],
+
+        "510100000000": [
+            {
+                "_districtid": "510101000000",
+                "_districtname": "市辖区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510104000000",
+                "_districtname": "锦江区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510105000000",
+                "_districtname": "青羊区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510106000000",
+                "_districtname": "金牛区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510107000000",
+                "_districtname": "武侯区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510108000000",
+                "_districtname": "成华区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510112000000",
+                "_districtname": "龙泉驿区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510113000000",
+                "_districtname": "青白江区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510114000000",
+                "_districtname": "新都区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510115000000",
+                "_districtname": "温江区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510116000000",
+                "_districtname": "双流区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510117000000",
+                "_districtname": "郫都区",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510121000000",
+                "_districtname": "金堂县",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510129000000",
+                "_districtname": "大邑县",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510131000000",
+                "_districtname": "蒲江县",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510132000000",
+                "_districtname": "新津县",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510181000000",
+                "_districtname": "都江堰市",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510182000000",
+                "_districtname": "彭州市",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510183000000",
+                "_districtname": "邛崃市",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510184000000",
+                "_districtname": "崇州市",
+                "_cityid": "510100000000"
+            },
+            {
+                "_districtid": "510185000000",
+                "_districtname": "简阳市",
+                "_cityid": "510100000000"
+            }
+        ],
+        "510300000000": [
+            {
+                "_districtid": "510301000000",
+                "_districtname": "市辖区",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510302000000",
+                "_districtname": "自流井区",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510303000000",
+                "_districtname": "贡井区",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510304000000",
+                "_districtname": "大安区",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510311000000",
+                "_districtname": "沿滩区",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510321000000",
+                "_districtname": "荣县",
+                "_cityid": "510300000000"
+            },
+            {
+                "_districtid": "510322000000",
+                "_districtname": "富顺县",
+                "_cityid": "510300000000"
+            }
+        ],
+        "510400000000": [
+            {
+                "_districtid": "510401000000",
+                "_districtname": "市辖区",
+                "_cityid": "510400000000"
+            },
+            {
+                "_districtid": "510402000000",
+                "_districtname": "东区",
+                "_cityid": "510400000000"
+            },
+            {
+                "_districtid": "510403000000",
+                "_districtname": "西区",
+                "_cityid": "510400000000"
+            },
+            {
+                "_districtid": "510411000000",
+                "_districtname": "仁和区",
+                "_cityid": "510400000000"
+            },
+            {
+                "_districtid": "510421000000",
+                "_districtname": "米易县",
+                "_cityid": "510400000000"
+            },
+            {
+                "_districtid": "510422000000",
+                "_districtname": "盐边县",
+                "_cityid": "510400000000"
+            }
+        ],
+        "510500000000": [
+            {
+                "_districtid": "510501000000",
+                "_districtname": "市辖区",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510502000000",
+                "_districtname": "江阳区",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510503000000",
+                "_districtname": "纳溪区",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510504000000",
+                "_districtname": "龙马潭区",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510521000000",
+                "_districtname": "泸县",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510522000000",
+                "_districtname": "合江县",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510524000000",
+                "_districtname": "叙永县",
+                "_cityid": "510500000000"
+            },
+            {
+                "_districtid": "510525000000",
+                "_districtname": "古蔺县",
+                "_cityid": "510500000000"
+            }
+        ],
+        "510600000000": [
+            {
+                "_districtid": "510601000000",
+                "_districtname": "市辖区",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510603000000",
+                "_districtname": "旌阳区",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510604000000",
+                "_districtname": "罗江区",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510623000000",
+                "_districtname": "中江县",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510681000000",
+                "_districtname": "广汉市",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510682000000",
+                "_districtname": "什邡市",
+                "_cityid": "510600000000"
+            },
+            {
+                "_districtid": "510683000000",
+                "_districtname": "绵竹市",
+                "_cityid": "510600000000"
+            }
+        ],
+        "510700000000": [
+            {
+                "_districtid": "510701000000",
+                "_districtname": "市辖区",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510703000000",
+                "_districtname": "涪城区",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510704000000",
+                "_districtname": "游仙区",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510705000000",
+                "_districtname": "安州区",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510722000000",
+                "_districtname": "三台县",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510723000000",
+                "_districtname": "盐亭县",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510725000000",
+                "_districtname": "梓潼县",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510726000000",
+                "_districtname": "北川羌族自治县",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510727000000",
+                "_districtname": "平武县",
+                "_cityid": "510700000000"
+            },
+            {
+                "_districtid": "510781000000",
+                "_districtname": "江油市",
+                "_cityid": "510700000000"
+            }
+        ],
+        "510800000000": [
+            {
+                "_districtid": "510801000000",
+                "_districtname": "市辖区",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510802000000",
+                "_districtname": "利州区",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510811000000",
+                "_districtname": "昭化区",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510812000000",
+                "_districtname": "朝天区",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510821000000",
+                "_districtname": "旺苍县",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510822000000",
+                "_districtname": "青川县",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510823000000",
+                "_districtname": "剑阁县",
+                "_cityid": "510800000000"
+            },
+            {
+                "_districtid": "510824000000",
+                "_districtname": "苍溪县",
+                "_cityid": "510800000000"
+            }
+        ],
+        "510900000000": [
+            {
+                "_districtid": "510901000000",
+                "_districtname": "市辖区",
+                "_cityid": "510900000000"
+            },
+            {
+                "_districtid": "510903000000",
+                "_districtname": "船山区",
+                "_cityid": "510900000000"
+            },
+            {
+                "_districtid": "510904000000",
+                "_districtname": "安居区",
+                "_cityid": "510900000000"
+            },
+            {
+                "_districtid": "510921000000",
+                "_districtname": "蓬溪县",
+                "_cityid": "510900000000"
+            },
+            {
+                "_districtid": "510923000000",
+                "_districtname": "大英县",
+                "_cityid": "510900000000"
+            },
+            {
+                "_districtid": "510981000000",
+                "_districtname": "射洪市",
+                "_cityid": "510900000000"
+            }
+        ],
+        "511000000000": [
+            {
+                "_districtid": "511001000000",
+                "_districtname": "市辖区",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511002000000",
+                "_districtname": "市中区",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511011000000",
+                "_districtname": "东兴区",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511024000000",
+                "_districtname": "威远县",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511025000000",
+                "_districtname": "资中县",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511071000000",
+                "_districtname": "内江经济开发区",
+                "_cityid": "511000000000"
+            },
+            {
+                "_districtid": "511083000000",
+                "_districtname": "隆昌市",
+                "_cityid": "511000000000"
+            }
+        ],
+        "511100000000": [
+            {
+                "_districtid": "511101000000",
+                "_districtname": "市辖区",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511102000000",
+                "_districtname": "市中区",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511111000000",
+                "_districtname": "沙湾区",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511112000000",
+                "_districtname": "五通桥区",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511113000000",
+                "_districtname": "金口河区",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511123000000",
+                "_districtname": "犍为县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511124000000",
+                "_districtname": "井研县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511126000000",
+                "_districtname": "夹江县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511129000000",
+                "_districtname": "沐川县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511132000000",
+                "_districtname": "峨边彝族自治县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511133000000",
+                "_districtname": "马边彝族自治县",
+                "_cityid": "511100000000"
+            },
+            {
+                "_districtid": "511181000000",
+                "_districtname": "峨眉山市",
+                "_cityid": "511100000000"
+            }
+        ],
+        "511300000000": [
+            {
+                "_districtid": "511301000000",
+                "_districtname": "市辖区",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511302000000",
+                "_districtname": "顺庆区",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511303000000",
+                "_districtname": "高坪区",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511304000000",
+                "_districtname": "嘉陵区",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511321000000",
+                "_districtname": "南部县",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511322000000",
+                "_districtname": "营山县",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511323000000",
+                "_districtname": "蓬安县",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511324000000",
+                "_districtname": "仪陇县",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511325000000",
+                "_districtname": "西充县",
+                "_cityid": "511300000000"
+            },
+            {
+                "_districtid": "511381000000",
+                "_districtname": "阆中市",
+                "_cityid": "511300000000"
+            }
+        ],
+        "511400000000": [
+            {
+                "_districtid": "511401000000",
+                "_districtname": "市辖区",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511402000000",
+                "_districtname": "东坡区",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511403000000",
+                "_districtname": "彭山区",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511421000000",
+                "_districtname": "仁寿县",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511423000000",
+                "_districtname": "洪雅县",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511424000000",
+                "_districtname": "丹棱县",
+                "_cityid": "511400000000"
+            },
+            {
+                "_districtid": "511425000000",
+                "_districtname": "青神县",
+                "_cityid": "511400000000"
+            }
+        ],
+        "511500000000": [
+            {
+                "_districtid": "511501000000",
+                "_districtname": "市辖区",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511502000000",
+                "_districtname": "翠屏区",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511503000000",
+                "_districtname": "南溪区",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511504000000",
+                "_districtname": "叙州区",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511523000000",
+                "_districtname": "江安县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511524000000",
+                "_districtname": "长宁县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511525000000",
+                "_districtname": "高县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511526000000",
+                "_districtname": "珙县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511527000000",
+                "_districtname": "筠连县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511528000000",
+                "_districtname": "兴文县",
+                "_cityid": "511500000000"
+            },
+            {
+                "_districtid": "511529000000",
+                "_districtname": "屏山县",
+                "_cityid": "511500000000"
+            }
+        ],
+        "511600000000": [
+            {
+                "_districtid": "511601000000",
+                "_districtname": "市辖区",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511602000000",
+                "_districtname": "广安区",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511603000000",
+                "_districtname": "前锋区",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511621000000",
+                "_districtname": "岳池县",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511622000000",
+                "_districtname": "武胜县",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511623000000",
+                "_districtname": "邻水县",
+                "_cityid": "511600000000"
+            },
+            {
+                "_districtid": "511681000000",
+                "_districtname": "华蓥市",
+                "_cityid": "511600000000"
+            }
+        ],
+        "511700000000": [
+            {
+                "_districtid": "511701000000",
+                "_districtname": "市辖区",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511702000000",
+                "_districtname": "通川区",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511703000000",
+                "_districtname": "达川区",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511722000000",
+                "_districtname": "宣汉县",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511723000000",
+                "_districtname": "开江县",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511724000000",
+                "_districtname": "大竹县",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511725000000",
+                "_districtname": "渠县",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511771000000",
+                "_districtname": "达州经济开发区",
+                "_cityid": "511700000000"
+            },
+            {
+                "_districtid": "511781000000",
+                "_districtname": "万源市",
+                "_cityid": "511700000000"
+            }
+        ],
+        "511800000000": [
+            {
+                "_districtid": "511801000000",
+                "_districtname": "市辖区",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511802000000",
+                "_districtname": "雨城区",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511803000000",
+                "_districtname": "名山区",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511822000000",
+                "_districtname": "荥经县",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511823000000",
+                "_districtname": "汉源县",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511824000000",
+                "_districtname": "石棉县",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511825000000",
+                "_districtname": "天全县",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511826000000",
+                "_districtname": "芦山县",
+                "_cityid": "511800000000"
+            },
+            {
+                "_districtid": "511827000000",
+                "_districtname": "宝兴县",
+                "_cityid": "511800000000"
+            }
+        ],
+        "511900000000": [
+            {
+                "_districtid": "511901000000",
+                "_districtname": "市辖区",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511902000000",
+                "_districtname": "巴州区",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511903000000",
+                "_districtname": "恩阳区",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511921000000",
+                "_districtname": "通江县",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511922000000",
+                "_districtname": "南江县",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511923000000",
+                "_districtname": "平昌县",
+                "_cityid": "511900000000"
+            },
+            {
+                "_districtid": "511971000000",
+                "_districtname": "巴中经济开发区",
+                "_cityid": "511900000000"
+            }
+        ],
+        "512000000000": [
+            {
+                "_districtid": "512001000000",
+                "_districtname": "市辖区",
+                "_cityid": "512000000000"
+            },
+            {
+                "_districtid": "512002000000",
+                "_districtname": "雁江区",
+                "_cityid": "512000000000"
+            },
+            {
+                "_districtid": "512021000000",
+                "_districtname": "安岳县",
+                "_cityid": "512000000000"
+            },
+            {
+                "_districtid": "512022000000",
+                "_districtname": "乐至县",
+                "_cityid": "512000000000"
+            }
+        ],
+        "513200000000": [
+            {
+                "_districtid": "513201000000",
+                "_districtname": "马尔康市",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513221000000",
+                "_districtname": "汶川县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513222000000",
+                "_districtname": "理县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513223000000",
+                "_districtname": "茂县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513224000000",
+                "_districtname": "松潘县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513225000000",
+                "_districtname": "九寨沟县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513226000000",
+                "_districtname": "金川县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513227000000",
+                "_districtname": "小金县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513228000000",
+                "_districtname": "黑水县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513230000000",
+                "_districtname": "壤塘县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513231000000",
+                "_districtname": "阿坝县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513232000000",
+                "_districtname": "若尔盖县",
+                "_cityid": "513200000000"
+            },
+            {
+                "_districtid": "513233000000",
+                "_districtname": "红原县",
+                "_cityid": "513200000000"
+            }
+        ],
+        "513300000000": [
+            {
+                "_districtid": "513301000000",
+                "_districtname": "康定市",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513322000000",
+                "_districtname": "泸定县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513323000000",
+                "_districtname": "丹巴县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513324000000",
+                "_districtname": "九龙县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513325000000",
+                "_districtname": "雅江县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513326000000",
+                "_districtname": "道孚县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513327000000",
+                "_districtname": "炉霍县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513328000000",
+                "_districtname": "甘孜县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513329000000",
+                "_districtname": "新龙县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513330000000",
+                "_districtname": "德格县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513331000000",
+                "_districtname": "白玉县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513332000000",
+                "_districtname": "石渠县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513333000000",
+                "_districtname": "色达县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513334000000",
+                "_districtname": "理塘县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513335000000",
+                "_districtname": "巴塘县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513336000000",
+                "_districtname": "乡城县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513337000000",
+                "_districtname": "稻城县",
+                "_cityid": "513300000000"
+            },
+            {
+                "_districtid": "513338000000",
+                "_districtname": "得荣县",
+                "_cityid": "513300000000"
+            }
+        ],
+        "513400000000": [
+            {
+                "_districtid": "513401000000",
+                "_districtname": "西昌市",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513422000000",
+                "_districtname": "木里藏族自治县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513423000000",
+                "_districtname": "盐源县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513424000000",
+                "_districtname": "德昌县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513425000000",
+                "_districtname": "会理县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513426000000",
+                "_districtname": "会东县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513427000000",
+                "_districtname": "宁南县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513428000000",
+                "_districtname": "普格县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513429000000",
+                "_districtname": "布拖县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513430000000",
+                "_districtname": "金阳县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513431000000",
+                "_districtname": "昭觉县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513432000000",
+                "_districtname": "喜德县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513433000000",
+                "_districtname": "冕宁县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513434000000",
+                "_districtname": "越西县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513435000000",
+                "_districtname": "甘洛县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513436000000",
+                "_districtname": "美姑县",
+                "_cityid": "513400000000"
+            },
+            {
+                "_districtid": "513437000000",
+                "_districtname": "雷波县",
+                "_cityid": "513400000000"
+            }
+        ]
+    } 
