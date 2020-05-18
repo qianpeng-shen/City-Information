@@ -1,0 +1,1774 @@
+ {
+            "11": [
+              {
+                "_cityid": "110100000000",
+                "_proviceid": "11",
+                "_cityname": "北京市"
+              }
+            ],
+            "12": [
+              {
+                "_cityid": "120100000000",
+                "_proviceid": "12",
+                "_cityname": "天津市"
+              }
+            ],
+            "13": [
+              {
+                "_cityid": "130100000000",
+                "_proviceid": "13",
+                "_cityname": "石家庄市"
+              },
+              {
+                "_cityid": "130200000000",
+                "_proviceid": "13",
+                "_cityname": "唐山市"
+              },
+              {
+                "_cityid": "130300000000",
+                "_proviceid": "13",
+                "_cityname": "秦皇岛市"
+              },
+              {
+                "_cityid": "130400000000",
+                "_proviceid": "13",
+                "_cityname": "邯郸市"
+              },
+              {
+                "_cityid": "130500000000",
+                "_proviceid": "13",
+                "_cityname": "邢台市"
+              },
+              {
+                "_cityid": "130600000000",
+                "_proviceid": "13",
+                "_cityname": "保定市"
+              },
+              {
+                "_cityid": "130700000000",
+                "_proviceid": "13",
+                "_cityname": "张家口市"
+              },
+              {
+                "_cityid": "130800000000",
+                "_proviceid": "13",
+                "_cityname": "承德市"
+              },
+              {
+                "_cityid": "130900000000",
+                "_proviceid": "13",
+                "_cityname": "沧州市"
+              },
+              {
+                "_cityid": "131000000000",
+                "_proviceid": "13",
+                "_cityname": "廊坊市"
+              },
+              {
+                "_cityid": "131100000000",
+                "_proviceid": "13",
+                "_cityname": "衡水市"
+              }
+            ],
+            "14": [
+              {
+                "_cityid": "140100000000",
+                "_proviceid": "14",
+                "_cityname": "太原市"
+              },
+              {
+                "_cityid": "140200000000",
+                "_proviceid": "14",
+                "_cityname": "大同市"
+              },
+              {
+                "_cityid": "140300000000",
+                "_proviceid": "14",
+                "_cityname": "阳泉市"
+              },
+              {
+                "_cityid": "140400000000",
+                "_proviceid": "14",
+                "_cityname": "长治市"
+              },
+              {
+                "_cityid": "140500000000",
+                "_proviceid": "14",
+                "_cityname": "晋城市"
+              },
+              {
+                "_cityid": "140600000000",
+                "_proviceid": "14",
+                "_cityname": "朔州市"
+              },
+              {
+                "_cityid": "140700000000",
+                "_proviceid": "14",
+                "_cityname": "晋中市"
+              },
+              {
+                "_cityid": "140800000000",
+                "_proviceid": "14",
+                "_cityname": "运城市"
+              },
+              {
+                "_cityid": "140900000000",
+                "_proviceid": "14",
+                "_cityname": "忻州市"
+              },
+              {
+                "_cityid": "141000000000",
+                "_proviceid": "14",
+                "_cityname": "临汾市"
+              },
+              {
+                "_cityid": "141100000000",
+                "_proviceid": "14",
+                "_cityname": "吕梁市"
+              }
+            ],
+            "15": [
+              {
+                "_cityid": "150100000000",
+                "_proviceid": "15",
+                "_cityname": "呼和浩特市"
+              },
+              {
+                "_cityid": "150200000000",
+                "_proviceid": "15",
+                "_cityname": "包头市"
+              },
+              {
+                "_cityid": "150300000000",
+                "_proviceid": "15",
+                "_cityname": "乌海市"
+              },
+              {
+                "_cityid": "150400000000",
+                "_proviceid": "15",
+                "_cityname": "赤峰市"
+              },
+              {
+                "_cityid": "150500000000",
+                "_proviceid": "15",
+                "_cityname": "通辽市"
+              },
+              {
+                "_cityid": "150600000000",
+                "_proviceid": "15",
+                "_cityname": "鄂尔多斯市"
+              },
+              {
+                "_cityid": "150700000000",
+                "_proviceid": "15",
+                "_cityname": "呼伦贝尔市"
+              },
+              {
+                "_cityid": "150800000000",
+                "_proviceid": "15",
+                "_cityname": "巴彦淖尔市"
+              },
+              {
+                "_cityid": "150900000000",
+                "_proviceid": "15",
+                "_cityname": "乌兰察布市"
+              },
+              {
+                "_cityid": "152200000000",
+                "_proviceid": "15",
+                "_cityname": "兴安盟"
+              },
+              {
+                "_cityid": "152500000000",
+                "_proviceid": "15",
+                "_cityname": "锡林郭勒盟"
+              },
+              {
+                "_cityid": "152900000000",
+                "_proviceid": "15",
+                "_cityname": "阿拉善盟"
+              }
+            ],
+            "21": [
+              {
+                "_cityid": "210100000000",
+                "_proviceid": "21",
+                "_cityname": "沈阳市"
+              },
+              {
+                "_cityid": "210200000000",
+                "_proviceid": "21",
+                "_cityname": "大连市"
+              },
+              {
+                "_cityid": "210300000000",
+                "_proviceid": "21",
+                "_cityname": "鞍山市"
+              },
+              {
+                "_cityid": "210400000000",
+                "_proviceid": "21",
+                "_cityname": "抚顺市"
+              },
+              {
+                "_cityid": "210500000000",
+                "_proviceid": "21",
+                "_cityname": "本溪市"
+              },
+              {
+                "_cityid": "210600000000",
+                "_proviceid": "21",
+                "_cityname": "丹东市"
+              },
+              {
+                "_cityid": "210700000000",
+                "_proviceid": "21",
+                "_cityname": "锦州市"
+              },
+              {
+                "_cityid": "210800000000",
+                "_proviceid": "21",
+                "_cityname": "营口市"
+              },
+              {
+                "_cityid": "210900000000",
+                "_proviceid": "21",
+                "_cityname": "阜新市"
+              },
+              {
+                "_cityid": "211000000000",
+                "_proviceid": "21",
+                "_cityname": "辽阳市"
+              },
+              {
+                "_cityid": "211100000000",
+                "_proviceid": "21",
+                "_cityname": "盘锦市"
+              },
+              {
+                "_cityid": "211200000000",
+                "_proviceid": "21",
+                "_cityname": "铁岭市"
+              },
+              {
+                "_cityid": "211300000000",
+                "_proviceid": "21",
+                "_cityname": "朝阳市"
+              },
+              {
+                "_cityid": "211400000000",
+                "_proviceid": "21",
+                "_cityname": "葫芦岛市"
+              }
+            ],
+            "22": [
+              {
+                "_cityid": "220100000000",
+                "_proviceid": "22",
+                "_cityname": "长春市"
+              },
+              {
+                "_cityid": "220200000000",
+                "_proviceid": "22",
+                "_cityname": "吉林市"
+              },
+              {
+                "_cityid": "220300000000",
+                "_proviceid": "22",
+                "_cityname": "四平市"
+              },
+              {
+                "_cityid": "220400000000",
+                "_proviceid": "22",
+                "_cityname": "辽源市"
+              },
+              {
+                "_cityid": "220500000000",
+                "_proviceid": "22",
+                "_cityname": "通化市"
+              },
+              {
+                "_cityid": "220600000000",
+                "_proviceid": "22",
+                "_cityname": "白山市"
+              },
+              {
+                "_cityid": "220700000000",
+                "_proviceid": "22",
+                "_cityname": "松原市"
+              },
+              {
+                "_cityid": "220800000000",
+                "_proviceid": "22",
+                "_cityname": "白城市"
+              },
+              {
+                "_cityid": "222400000000",
+                "_proviceid": "22",
+                "_cityname": "延边朝鲜族自治州"
+              }
+            ],
+            "23": [
+              {
+                "_cityid": "230100000000",
+                "_proviceid": "23",
+                "_cityname": "哈尔滨市"
+              },
+              {
+                "_cityid": "230200000000",
+                "_proviceid": "23",
+                "_cityname": "齐齐哈尔市"
+              },
+              {
+                "_cityid": "230300000000",
+                "_proviceid": "23",
+                "_cityname": "鸡西市"
+              },
+              {
+                "_cityid": "230400000000",
+                "_proviceid": "23",
+                "_cityname": "鹤岗市 "
+              },
+              {
+                "_cityid": "230500000000",
+                "_proviceid": "23",
+                "_cityname": "双鸭山市"
+              },
+              {
+                "_cityid": "230600000000",
+                "_proviceid": "23",
+                "_cityname": "大庆市"
+              },
+              {
+                "_cityid": "230700000000",
+                "_proviceid": "23",
+                "_cityname": "伊春市"
+              },
+              {
+                "_cityid": "230800000000",
+                "_proviceid": "23",
+                "_cityname": "佳木斯市"
+              },
+              {
+                "_cityid": "230900000000",
+                "_proviceid": "23",
+                "_cityname": "七台河市"
+              },
+              {
+                "_cityid": "231000000000",
+                "_proviceid": "23",
+                "_cityname": "牡丹江市"
+              },
+              {
+                "_cityid": "231100000000",
+                "_proviceid": "23",
+                "_cityname": "黑河市"
+              },
+              {
+                "_cityid": "231200000000",
+                "_proviceid": "23",
+                "_cityname": "绥化市"
+              },
+              {
+                "_cityid": "232700000000",
+                "_proviceid": "23",
+                "_cityname": "大兴安岭地区"
+              }
+            ],
+            "31": [
+              {
+                "_cityid": "310100000000",
+                "_proviceid": "31",
+                "_cityname": "上海市"
+              }
+            ],
+            "32": [
+              {
+                "_cityid": "320100000000",
+                "_proviceid": "32",
+                "_cityname": "南京市"
+              },
+              {
+                "_cityid": "320200000000",
+                "_proviceid": "32",
+                "_cityname": "无锡市"
+              },
+              {
+                "_cityid": "320300000000",
+                "_proviceid": "32",
+                "_cityname": "徐州市"
+              },
+              {
+                "_cityid": "320400000000",
+                "_proviceid": "32",
+                "_cityname": "常州市"
+              },
+              {
+                "_cityid": "320500000000",
+                "_proviceid": "32",
+                "_cityname": "苏州市"
+              },
+              {
+                "_cityid": "320600000000",
+                "_proviceid": "32",
+                "_cityname": "南通市"
+              },
+              {
+                "_cityid": "320700000000",
+                "_proviceid": "32",
+                "_cityname": "连云港市"
+              },
+              {
+                "_cityid": "320800000000",
+                "_proviceid": "32",
+                "_cityname": "淮安市"
+              },
+              {
+                "_cityid": "320900000000",
+                "_proviceid": "32",
+                "_cityname": "盐城市"
+              },
+              {
+                "_cityid": "321000000000",
+                "_proviceid": "32",
+                "_cityname": "扬州市"
+              },
+              {
+                "_cityid": "321100000000",
+                "_proviceid": "32",
+                "_cityname": "镇江市"
+              },
+              {
+                "_cityid": "321200000000",
+                "_proviceid": "32",
+                "_cityname": "泰州市 "
+              },
+              {
+                "_cityid": "321300000000",
+                "_proviceid": "32",
+                "_cityname": "宿迁市"
+              }
+            ],
+            "33": [
+              {
+                "_cityid": "330100000000",
+                "_proviceid": "33",
+                "_cityname": "杭州市"
+              },
+              {
+                "_cityid": "330200000000",
+                "_proviceid": "33",
+                "_cityname": "宁波市"
+              },
+              {
+                "_cityid": "330300000000",
+                "_proviceid": "33",
+                "_cityname": "温州市"
+              },
+              {
+                "_cityid": "330400000000",
+                "_proviceid": "33",
+                "_cityname": "嘉兴市"
+              },
+              {
+                "_cityid": "330500000000",
+                "_proviceid": "33",
+                "_cityname": "湖州市"
+              },
+              {
+                "_cityid": "330600000000",
+                "_proviceid": "33",
+                "_cityname": "绍兴市"
+              },
+              {
+                "_cityid": "330700000000",
+                "_proviceid": "33",
+                "_cityname": "金华市"
+              },
+              {
+                "_cityid": "330800000000",
+                "_proviceid": "33",
+                "_cityname": "衢州市"
+              },
+              {
+                "_cityid": "330900000000",
+                "_proviceid": "33",
+                "_cityname": "舟山市"
+              },
+              {
+                "_cityid": "331000000000",
+                "_proviceid": "33",
+                "_cityname": "台州市"
+              },
+              {
+                "_cityid": "331100000000",
+                "_proviceid": "33",
+                "_cityname": "丽水市"
+              }
+            ],
+            "34": [
+              {
+                "_cityid": "340100000000",
+                "_proviceid": "34",
+                "_cityname": "合肥市"
+              },
+              {
+                "_cityid": "340200000000",
+                "_proviceid": "34",
+                "_cityname": "芜湖市"
+              },
+              {
+                "_cityid": "340300000000",
+                "_proviceid": "34",
+                "_cityname": "蚌埠市"
+              },
+              {
+                "_cityid": "340400000000",
+                "_proviceid": "34",
+                "_cityname": "淮南市"
+              },
+              {
+                "_cityid": "340500000000",
+                "_proviceid": "34",
+                "_cityname": "马鞍山市"
+              },
+              {
+                "_cityid": "340600000000",
+                "_proviceid": "34",
+                "_cityname": "淮北市"
+              },
+              {
+                "_cityid": "340700000000",
+                "_proviceid": "34",
+                "_cityname": "铜陵市"
+              },
+              {
+                "_cityid": "340800000000",
+                "_proviceid": "34",
+                "_cityname": "安庆市"
+              },
+              {
+                "_cityid": "341000000000",
+                "_proviceid": "34",
+                "_cityname": "黄山市"
+              },
+              {
+                "_cityid": "341100000000",
+                "_proviceid": "34",
+                "_cityname": "滁州市"
+              },
+              {
+                "_cityid": "341200000000",
+                "_proviceid": "34",
+                "_cityname": "阜阳市"
+              },
+              {
+                "_cityid": "341300000000",
+                "_proviceid": "34",
+                "_cityname": "宿州市"
+              },
+              {
+                "_cityid": "341500000000",
+                "_proviceid": "34",
+                "_cityname": "六安市 "
+              },
+              {
+                "_cityid": "341600000000",
+                "_proviceid": "34",
+                "_cityname": "亳州市"
+              },
+              {
+                "_cityid": "341700000000",
+                "_proviceid": "34",
+                "_cityname": "池州市"
+              },
+              {
+                "_cityid": "341800000000",
+                "_proviceid": "34",
+                "_cityname": "宣城市"
+              }
+            ],
+            "35": [
+              {
+                "_cityid": "350100000000",
+                "_proviceid": "35",
+                "_cityname": "福州市"
+              },
+              {
+                "_cityid": "350200000000",
+                "_proviceid": "35",
+                "_cityname": "厦门市"
+              },
+              {
+                "_cityid": "350300000000",
+                "_proviceid": "35",
+                "_cityname": "莆田市"
+              },
+              {
+                "_cityid": "350400000000",
+                "_proviceid": "35",
+                "_cityname": "三明市"
+              },
+              {
+                "_cityid": "350500000000",
+                "_proviceid": "35",
+                "_cityname": "泉州市"
+              },
+              {
+                "_cityid": "350600000000",
+                "_proviceid": "35",
+                "_cityname": "漳州市"
+              },
+              {
+                "_cityid": "350700000000",
+                "_proviceid": "35",
+                "_cityname": "南平市"
+              },
+              {
+                "_cityid": "350800000000",
+                "_proviceid": "35",
+                "_cityname": "龙岩市"
+              },
+              {
+                "_cityid": "350900000000",
+                "_proviceid": "35",
+                "_cityname": "宁德市"
+              }
+            ],
+            "36": [
+              {
+                "_cityid": "360100000000",
+                "_proviceid": "36",
+                "_cityname": "南昌市"
+              },
+              {
+                "_cityid": "360200000000",
+                "_proviceid": "36",
+                "_cityname": "景德镇市"
+              },
+              {
+                "_cityid": "360300000000",
+                "_proviceid": "36",
+                "_cityname": "萍乡市"
+              },
+              {
+                "_cityid": "360400000000",
+                "_proviceid": "36",
+                "_cityname": "九江市"
+              },
+              {
+                "_cityid": "360500000000",
+                "_proviceid": "36",
+                "_cityname": "新余市"
+              },
+              {
+                "_cityid": "360600000000",
+                "_proviceid": "36",
+                "_cityname": "鹰潭市"
+              },
+              {
+                "_cityid": "360700000000",
+                "_proviceid": "36",
+                "_cityname": "赣州市"
+              },
+              {
+                "_cityid": "360800000000",
+                "_proviceid": "36",
+                "_cityname": "吉安市"
+              },
+              {
+                "_cityid": "360900000000",
+                "_proviceid": "36",
+                "_cityname": "宜春市"
+              },
+              {
+                "_cityid": "361000000000",
+                "_proviceid": "36",
+                "_cityname": "抚州市"
+              },
+              {
+                "_cityid": "361100000000",
+                "_proviceid": "36",
+                "_cityname": "上饶市"
+              }
+            ],
+            "37": [
+              {
+                "_cityid": "370100000000",
+                "_proviceid": "37",
+                "_cityname": "济南市"
+              },
+              {
+                "_cityid": "370200000000",
+                "_proviceid": "37",
+                "_cityname": "青岛市"
+              },
+              {
+                "_cityid": "370300000000",
+                "_proviceid": "37",
+                "_cityname": "淄博市"
+              },
+              {
+                "_cityid": "370400000000",
+                "_proviceid": "37",
+                "_cityname": "枣庄市"
+              },
+              {
+                "_cityid": "370500000000",
+                "_proviceid": "37",
+                "_cityname": "东营市"
+              },
+              {
+                "_cityid": "370600000000",
+                "_proviceid": "37",
+                "_cityname": "烟台市"
+              },
+              {
+                "_cityid": "370700000000",
+                "_proviceid": "37",
+                "_cityname": "潍坊市"
+              },
+              {
+                "_cityid": "370800000000",
+                "_proviceid": "37",
+                "_cityname": "济宁市"
+              },
+              {
+                "_cityid": "370900000000",
+                "_proviceid": "37",
+                "_cityname": "泰安市"
+              },
+              {
+                "_cityid": "371000000000",
+                "_proviceid": "37",
+                "_cityname": "威海市"
+              },
+              {
+                "_cityid": "371100000000",
+                "_proviceid": "37",
+                "_cityname": "日照市"
+              },
+              {
+                "_cityid": "371300000000",
+                "_proviceid": "37",
+                "_cityname": "临沂市"
+              },
+              {
+                "_cityid": "371400000000",
+                "_proviceid": "37",
+                "_cityname": "德州市"
+              },
+              {
+                "_cityid": "371500000000",
+                "_proviceid": "37",
+                "_cityname": "聊城市"
+              },
+              {
+                "_cityid": "371600000000",
+                "_proviceid": "37",
+                "_cityname": "滨州市"
+              },
+              {
+                "_cityid": "371700000000",
+                "_proviceid": "37",
+                "_cityname": "菏泽市"
+              }
+            ],
+            "41": [
+              {
+                "_cityid": "410100000000",
+                "_proviceid": "41",
+                "_cityname": "郑州市"
+              },
+              {
+                "_cityid": "410200000000",
+                "_proviceid": "41",
+                "_cityname": "开封市"
+              },
+              {
+                "_cityid": "410300000000",
+                "_proviceid": "41",
+                "_cityname": "洛阳市"
+              },
+              {
+                "_cityid": "410400000000",
+                "_proviceid": "41",
+                "_cityname": "平顶山市"
+              },
+              {
+                "_cityid": "410500000000",
+                "_proviceid": "41",
+                "_cityname": "安阳市"
+              },
+              {
+                "_cityid": "410600000000",
+                "_proviceid": "41",
+                "_cityname": "鹤壁市"
+              },
+              {
+                "_cityid": "410700000000",
+                "_proviceid": "41",
+                "_cityname": "新乡市"
+              },
+              {
+                "_cityid": "410800000000",
+                "_proviceid": "41",
+                "_cityname": "焦作市"
+              },
+              {
+                "_cityid": "410900000000",
+                "_proviceid": "41",
+                "_cityname": "濮阳市"
+              },
+              {
+                "_cityid": "411000000000",
+                "_proviceid": "41",
+                "_cityname": "许昌市"
+              },
+              {
+                "_cityid": "411100000000",
+                "_proviceid": "41",
+                "_cityname": "漯河市"
+              },
+              {
+                "_cityid": "411200000000",
+                "_proviceid": "41",
+                "_cityname": "三门峡市"
+              },
+              {
+                "_cityid": "411300000000",
+                "_proviceid": "41",
+                "_cityname": "南阳市"
+              },
+              {
+                "_cityid": "411400000000",
+                "_proviceid": "41",
+                "_cityname": "商丘市"
+              },
+              {
+                "_cityid": "411500000000",
+                "_proviceid": "41",
+                "_cityname": "信阳市"
+              },
+              {
+                "_cityid": "411600000000",
+                "_proviceid": "41",
+                "_cityname": "周口市"
+              },
+              {
+                "_cityid": "411700000000",
+                "_proviceid": "41",
+                "_cityname": "驻马店市"
+              },
+              {
+                "_cityid": "419000000000",
+                "_proviceid": "41",
+                "_cityname": "省直辖县级行政区划"
+              }
+            ],
+            "42": [
+              {
+                "_cityid": "420100000000",
+                "_proviceid": "42",
+                "_cityname": "武汉市"
+              },
+              {
+                "_cityid": "420200000000",
+                "_proviceid": "42",
+                "_cityname": "黄石市"
+              },
+              {
+                "_cityid": "420300000000",
+                "_proviceid": "42",
+                "_cityname": "十堰市"
+              },
+              {
+                "_cityid": "420500000000",
+                "_proviceid": "42",
+                "_cityname": "宜昌市"
+              },
+              {
+                "_cityid": "420600000000",
+                "_proviceid": "42",
+                "_cityname": "襄阳市"
+              },
+              {
+                "_cityid": "420700000000",
+                "_proviceid": "42",
+                "_cityname": "鄂州市"
+              },
+              {
+                "_cityid": "420800000000",
+                "_proviceid": "42",
+                "_cityname": "荆门市"
+              },
+              {
+                "_cityid": "420900000000",
+                "_proviceid": "42",
+                "_cityname": "孝感市"
+              },
+              {
+                "_cityid": "421000000000",
+                "_proviceid": "42",
+                "_cityname": "荆州市"
+              },
+              {
+                "_cityid": "421100000000",
+                "_proviceid": "42",
+                "_cityname": "黄冈市"
+              },
+              {
+                "_cityid": "421200000000",
+                "_proviceid": "42",
+                "_cityname": "咸宁市"
+              },
+              {
+                "_cityid": "421300000000",
+                "_proviceid": "42",
+                "_cityname": "随州市"
+              },
+              {
+                "_cityid": "422800000000",
+                "_proviceid": "42",
+                "_cityname": "恩施土家族苗族自治州"
+              },
+              {
+                "_cityid": "429000000000",
+                "_proviceid": "42",
+                "_cityname": "省直辖县级行政区划"
+              }
+            ],
+            "43": [
+              {
+                "_cityid": "430100000000",
+                "_proviceid": "43",
+                "_cityname": "长沙市"
+              },
+              {
+                "_cityid": "430200000000",
+                "_proviceid": "43",
+                "_cityname": "株洲市"
+              },
+              {
+                "_cityid": "430300000000",
+                "_proviceid": "43",
+                "_cityname": "湘潭市"
+              },
+              {
+                "_cityid": "430400000000",
+                "_proviceid": "43",
+                "_cityname": "衡阳市"
+              },
+              {
+                "_cityid": "430500000000",
+                "_proviceid": "43",
+                "_cityname": "邵阳市"
+              },
+              {
+                "_cityid": "430600000000",
+                "_proviceid": "43",
+                "_cityname": "岳阳市"
+              },
+              {
+                "_cityid": "430700000000",
+                "_proviceid": "43",
+                "_cityname": "常德市"
+              },
+              {
+                "_cityid": "430800000000",
+                "_proviceid": "43",
+                "_cityname": "张家界市"
+              },
+              {
+                "_cityid": "430900000000",
+                "_proviceid": "43",
+                "_cityname": "益阳市"
+              },
+              {
+                "_cityid": "431000000000",
+                "_proviceid": "43",
+                "_cityname": "郴州市"
+              },
+              {
+                "_cityid": "431100000000",
+                "_proviceid": "43",
+                "_cityname": "永州市"
+              },
+              {
+                "_cityid": "431200000000",
+                "_proviceid": "43",
+                "_cityname": "怀化市"
+              },
+              {
+                "_cityid": "431300000000",
+                "_proviceid": "43",
+                "_cityname": "娄底市"
+              },
+              {
+                "_cityid": "433100000000",
+                "_proviceid": "43",
+                "_cityname": "湘西土家族苗族自治州"
+              }
+            ],
+            "44": [
+              {
+                "_cityid": "440100000000",
+                "_proviceid": "44",
+                "_cityname": "广州市"
+              },
+              {
+                "_cityid": "440200000000",
+                "_proviceid": "44",
+                "_cityname": "韶关市"
+              },
+              {
+                "_cityid": "440300000000",
+                "_proviceid": "44",
+                "_cityname": "深圳市"
+              },
+              {
+                "_cityid": "440400000000",
+                "_proviceid": "44",
+                "_cityname": "珠海市"
+              },
+              {
+                "_cityid": "440500000000",
+                "_proviceid": "44",
+                "_cityname": "汕头市"
+              },
+              {
+                "_cityid": "440600000000",
+                "_proviceid": "44",
+                "_cityname": "佛山市"
+              },
+              {
+                "_cityid": "440700000000",
+                "_proviceid": "44",
+                "_cityname": "江门市"
+              },
+              {
+                "_cityid": "440800000000",
+                "_proviceid": "44",
+                "_cityname": "湛江市"
+              },
+              {
+                "_cityid": "440900000000",
+                "_proviceid": "44",
+                "_cityname": "茂名市"
+              },
+              {
+                "_cityid": "441200000000",
+                "_proviceid": "44",
+                "_cityname": "肇庆市"
+              },
+              {
+                "_cityid": "441300000000",
+                "_proviceid": "44",
+                "_cityname": "惠州市"
+              },
+              {
+                "_cityid": "441400000000",
+                "_proviceid": "44",
+                "_cityname": "梅州市"
+              },
+              {
+                "_cityid": "441500000000",
+                "_proviceid": "44",
+                "_cityname": "汕尾市"
+              },
+              {
+                "_cityid": "441600000000",
+                "_proviceid": "44",
+                "_cityname": "河源市"
+              },
+              {
+                "_cityid": "441700000000",
+                "_proviceid": "44",
+                "_cityname": "阳江市"
+              },
+              {
+                "_cityid": "441800000000",
+                "_proviceid": "44",
+                "_cityname": "清远市"
+              },
+              {
+                "_cityid": "441900000000",
+                "_proviceid": "44",
+                "_cityname": "东莞市"
+              },
+              {
+                "_cityid": "442000000000",
+                "_proviceid": "44",
+                "_cityname": "中山市"
+              },
+              {
+                "_cityid": "445100000000",
+                "_proviceid": "44",
+                "_cityname": "潮州市"
+              },
+              {
+                "_cityid": "445200000000",
+                "_proviceid": "44",
+                "_cityname": "揭阳市"
+              },
+              {
+                "_cityid": "445300000000",
+                "_proviceid": "44",
+                "_cityname": "云浮市"
+              }
+            ],
+            "45": [
+              {
+                "_cityid": "450100000000",
+                "_proviceid": "45",
+                "_cityname": "南宁市"
+              },
+              {
+                "_cityid": "450200000000",
+                "_proviceid": "45",
+                "_cityname": "柳州市"
+              },
+              {
+                "_cityid": "450300000000",
+                "_proviceid": "45",
+                "_cityname": "桂林市"
+              },
+              {
+                "_cityid": "450400000000",
+                "_proviceid": "45",
+                "_cityname": "梧州市"
+              },
+              {
+                "_cityid": "450500000000",
+                "_proviceid": "45",
+                "_cityname": "北海市"
+              },
+              {
+                "_cityid": "450600000000",
+                "_proviceid": "45",
+                "_cityname": "防城港市"
+              },
+              {
+                "_cityid": "450700000000",
+                "_proviceid": "45",
+                "_cityname": "钦州市"
+              },
+              {
+                "_cityid": "450800000000",
+                "_proviceid": "45",
+                "_cityname": "贵港市"
+              },
+              {
+                "_cityid": "450900000000",
+                "_proviceid": "45",
+                "_cityname": "玉林市"
+              },
+              {
+                "_cityid": "451000000000",
+                "_proviceid": "45",
+                "_cityname": "百色市"
+              },
+              {
+                "_cityid": "451100000000",
+                "_proviceid": "45",
+                "_cityname": "贺州市"
+              },
+              {
+                "_cityid": "451200000000",
+                "_proviceid": "45",
+                "_cityname": "河池市"
+              },
+              {
+                "_cityid": "451300000000",
+                "_proviceid": "45",
+                "_cityname": "来宾市"
+              },
+              {
+                "_cityid": "451400000000",
+                "_proviceid": "45",
+                "_cityname": "崇左市"
+              }
+            ],
+            "46": [
+              {
+                "_cityid": "460100000000",
+                "_proviceid": "46",
+                "_cityname": "海口市"
+              },
+              {
+                "_cityid": "460200000000",
+                "_proviceid": "46",
+                "_cityname": "三亚市"
+              },
+              {
+                "_cityid": "460300000000",
+                "_proviceid": "46",
+                "_cityname": "三沙市"
+              },
+              {
+                "_cityid": "460400000000",
+                "_proviceid": "46",
+                "_cityname": "儋州市"
+              },
+              {
+                "_cityid": "469000000000",
+                "_proviceid": "46",
+                "_cityname": "省直辖县级行政区划"
+              }
+            ],
+            "50": [
+              {
+                "_cityid": "500100000000",
+                "_proviceid": "50",
+                "_cityname": "重庆市"
+              },
+              {
+                "_cityid": "500200000000",
+                "_proviceid": "50",
+                "_cityname": "县"
+              }
+            ],
+            "51": [
+              {
+                "_cityid": "510100000000",
+                "_proviceid": "51",
+                "_cityname": "成都市"
+              },
+              {
+                "_cityid": "510300000000",
+                "_proviceid": "51",
+                "_cityname": "自贡市"
+              },
+              {
+                "_cityid": "510400000000",
+                "_proviceid": "51",
+                "_cityname": "攀枝花市"
+              },
+              {
+                "_cityid": "510500000000",
+                "_proviceid": "51",
+                "_cityname": "泸州市"
+              },
+              {
+                "_cityid": "510600000000",
+                "_proviceid": "51",
+                "_cityname": "德阳市"
+              },
+              {
+                "_cityid": "510700000000",
+                "_proviceid": "51",
+                "_cityname": "绵阳市"
+              },
+              {
+                "_cityid": "510800000000",
+                "_proviceid": "51",
+                "_cityname": "广元市"
+              },
+              {
+                "_cityid": "510900000000",
+                "_proviceid": "51",
+                "_cityname": "遂宁市"
+              },
+              {
+                "_cityid": "511000000000",
+                "_proviceid": "51",
+                "_cityname": "内江市"
+              },
+              {
+                "_cityid": "511100000000",
+                "_proviceid": "51",
+                "_cityname": "乐山市"
+              },
+              {
+                "_cityid": "511300000000",
+                "_proviceid": "51",
+                "_cityname": "南充市"
+              },
+              {
+                "_cityid": "511400000000",
+                "_proviceid": "51",
+                "_cityname": "眉山市"
+              },
+              {
+                "_cityid": "511500000000",
+                "_proviceid": "51",
+                "_cityname": "宜宾市"
+              },
+              {
+                "_cityid": "511600000000",
+                "_proviceid": "51",
+                "_cityname": "广安市"
+              },
+              {
+                "_cityid": "511700000000",
+                "_proviceid": "51",
+                "_cityname": "达州市"
+              },
+              {
+                "_cityid": "511800000000",
+                "_proviceid": "51",
+                "_cityname": "雅安市"
+              },
+              {
+                "_cityid": "511900000000",
+                "_proviceid": "51",
+                "_cityname": "巴中市"
+              },
+              {
+                "_cityid": "512000000000",
+                "_proviceid": "51",
+                "_cityname": "资阳市"
+              },
+              {
+                "_cityid": "513200000000",
+                "_proviceid": "51",
+                "_cityname": "阿坝藏族羌族自治州"
+              },
+              {
+                "_cityid": "513300000000",
+                "_proviceid": "51",
+                "_cityname": "甘孜藏族自治州"
+              },
+              {
+                "_cityid": "513400000000",
+                "_proviceid": "51",
+                "_cityname": "凉山彝族自治州"
+              }
+            ],
+            "52": [
+              {
+                "_cityid": "520100000000",
+                "_proviceid": "52",
+                "_cityname": "贵阳市"
+              },
+              {
+                "_cityid": "520200000000",
+                "_proviceid": "52",
+                "_cityname": "六盘水市"
+              },
+              {
+                "_cityid": "520300000000",
+                "_proviceid": "52",
+                "_cityname": "遵义市"
+              },
+              {
+                "_cityid": "520400000000",
+                "_proviceid": "52",
+                "_cityname": "安顺市"
+              },
+              {
+                "_cityid": "520500000000",
+                "_proviceid": "52",
+                "_cityname": "毕节市"
+              },
+              {
+                "_cityid": "520600000000",
+                "_proviceid": "52",
+                "_cityname": "铜仁市"
+              },
+              {
+                "_cityid": "522300000000",
+                "_proviceid": "52",
+                "_cityname": "黔西南布依族苗族自治州"
+              },
+              {
+                "_cityid": "522600000000",
+                "_proviceid": "52",
+                "_cityname": "黔东南苗族侗族自治州"
+              },
+              {
+                "_cityid": "522700000000",
+                "_proviceid": "52",
+                "_cityname": "黔南布依族苗族自治州"
+              }
+            ],
+            "53": [
+              {
+                "_cityid": "530100000000",
+                "_proviceid": "53",
+                "_cityname": "昆明市"
+              },
+              {
+                "_cityid": "530300000000",
+                "_proviceid": "53",
+                "_cityname": "曲靖市"
+              },
+              {
+                "_cityid": "530400000000",
+                "_proviceid": "53",
+                "_cityname": "玉溪市"
+              },
+              {
+                "_cityid": "530500000000",
+                "_proviceid": "53",
+                "_cityname": "保山市"
+              },
+              {
+                "_cityid": "530600000000",
+                "_proviceid": "53",
+                "_cityname": "昭通市"
+              },
+              {
+                "_cityid": "530700000000",
+                "_proviceid": "53",
+                "_cityname": "丽江市"
+              },
+              {
+                "_cityid": "530800000000",
+                "_proviceid": "53",
+                "_cityname": "普洱市"
+              },
+              {
+                "_cityid": "530900000000",
+                "_proviceid": "53",
+                "_cityname": "临沧市"
+              },
+              {
+                "_cityid": "532300000000",
+                "_proviceid": "53",
+                "_cityname": "楚雄彝族自治州"
+              },
+              {
+                "_cityid": "532500000000",
+                "_proviceid": "53",
+                "_cityname": "红河哈尼族彝族自治州"
+              },
+              {
+                "_cityid": "532600000000",
+                "_proviceid": "53",
+                "_cityname": "文山壮族苗族自治州"
+              },
+              {
+                "_cityid": "532800000000",
+                "_proviceid": "53",
+                "_cityname": "西双版纳傣族自治州"
+              },
+              {
+                "_cityid": "532900000000",
+                "_proviceid": "53",
+                "_cityname": "大理白族自治州"
+              },
+              {
+                "_cityid": "533100000000",
+                "_proviceid": "53",
+                "_cityname": "德宏傣族景颇族自治州"
+              },
+              {
+                "_cityid": "533300000000",
+                "_proviceid": "53",
+                "_cityname": "怒江傈僳族自治州"
+              },
+              {
+                "_cityid": "533400000000",
+                "_proviceid": "53",
+                "_cityname": "迪庆藏族自治州"
+              }
+            ],
+            "54": [
+              {
+                "_cityid": "540100000000",
+                "_proviceid": "54",
+                "_cityname": "拉萨市"
+              },
+              {
+                "_cityid": "540200000000",
+                "_proviceid": "54",
+                "_cityname": "日喀则市"
+              },
+              {
+                "_cityid": "540300000000",
+                "_proviceid": "54",
+                "_cityname": "昌都市"
+              },
+              {
+                "_cityid": "540400000000",
+                "_proviceid": "54",
+                "_cityname": "林芝市"
+              },
+              {
+                "_cityid": "540500000000",
+                "_proviceid": "54",
+                "_cityname": "山南市"
+              },
+              {
+                "_cityid": "540600000000",
+                "_proviceid": "54",
+                "_cityname": "那曲市"
+              },
+              {
+                "_cityid": "542500000000",
+                "_proviceid": "54",
+                "_cityname": "阿里地区"
+              }
+            ],
+            "61": [
+              {
+                "_cityid": "610100000000",
+                "_proviceid": "61",
+                "_cityname": "西安市"
+              },
+              {
+                "_cityid": "610200000000",
+                "_proviceid": "61",
+                "_cityname": "铜川市"
+              },
+              {
+                "_cityid": "610300000000",
+                "_proviceid": "61",
+                "_cityname": "宝鸡市 "
+              },
+              {
+                "_cityid": "610400000000",
+                "_proviceid": "61",
+                "_cityname": "咸阳市"
+              },
+              {
+                "_cityid": "610500000000",
+                "_proviceid": "61",
+                "_cityname": "渭南市"
+              },
+              {
+                "_cityid": "610600000000",
+                "_proviceid": "61",
+                "_cityname": "延安市"
+              },
+              {
+                "_cityid": "610700000000",
+                "_proviceid": "61",
+                "_cityname": "汉中市"
+              },
+              {
+                "_cityid": "610800000000",
+                "_proviceid": "61",
+                "_cityname": "榆林市"
+              },
+              {
+                "_cityid": "610900000000",
+                "_proviceid": "61",
+                "_cityname": "安康市"
+              },
+              {
+                "_cityid": "611000000000",
+                "_proviceid": "61",
+                "_cityname": "商洛市"
+              }
+            ],
+            "62": [
+              {
+                "_cityid": "620100000000",
+                "_proviceid": "62",
+                "_cityname": "兰州市"
+              },
+              {
+                "_cityid": "620200000000",
+                "_proviceid": "62",
+                "_cityname": "嘉峪关市"
+              },
+              {
+                "_cityid": "620300000000",
+                "_proviceid": "62",
+                "_cityname": "金昌市"
+              },
+              {
+                "_cityid": "620400000000",
+                "_proviceid": "62",
+                "_cityname": "白银市"
+              },
+              {
+                "_cityid": "620500000000",
+                "_proviceid": "62",
+                "_cityname": "天水市"
+              },
+              {
+                "_cityid": "620600000000",
+                "_proviceid": "62",
+                "_cityname": "武威市"
+              },
+              {
+                "_cityid": "620700000000",
+                "_proviceid": "62",
+                "_cityname": "张掖市"
+              },
+              {
+                "_cityid": "620800000000",
+                "_proviceid": "62",
+                "_cityname": "平凉市"
+              },
+              {
+                "_cityid": "620900000000",
+                "_proviceid": "62",
+                "_cityname": "酒泉市"
+              },
+              {
+                "_cityid": "621000000000",
+                "_proviceid": "62",
+                "_cityname": "庆阳市"
+              },
+              {
+                "_cityid": "621100000000",
+                "_proviceid": "62",
+                "_cityname": "定西市"
+              },
+              {
+                "_cityid": "621200000000",
+                "_proviceid": "62",
+                "_cityname": "陇南市"
+              },
+              {
+                "_cityid": "622900000000",
+                "_proviceid": "62",
+                "_cityname": "临夏回族自治州"
+              },
+              {
+                "_cityid": "623000000000",
+                "_proviceid": "62",
+                "_cityname": "甘南藏族自治州"
+              }
+            ],
+            "63": [
+              {
+                "_cityid": "630100000000",
+                "_proviceid": "63",
+                "_cityname": "西宁市"
+              },
+              {
+                "_cityid": "630200000000",
+                "_proviceid": "63",
+                "_cityname": "海东市"
+              },
+              {
+                "_cityid": "632200000000",
+                "_proviceid": "63",
+                "_cityname": "海北藏族自治州"
+              },
+              {
+                "_cityid": "632300000000",
+                "_proviceid": "63",
+                "_cityname": "黄南藏族自治州"
+              },
+              {
+                "_cityid": "632500000000",
+                "_proviceid": "63",
+                "_cityname": "海南藏族自治州"
+              },
+              {
+                "_cityid": "632600000000",
+                "_proviceid": "63",
+                "_cityname": "果洛藏族自治州"
+              },
+              {
+                "_cityid": "632700000000",
+                "_proviceid": "63",
+                "_cityname": "玉树藏族自治州"
+              },
+              {
+                "_cityid": "632800000000",
+                "_proviceid": "63",
+                "_cityname": "海西蒙古族藏族自治州"
+              }
+            ],
+            "64": [
+              {
+                "_cityid": "640100000000",
+                "_proviceid": "64",
+                "_cityname": "银川市"
+              },
+              {
+                "_cityid": "640200000000",
+                "_proviceid": "64",
+                "_cityname": "石嘴山市"
+              },
+              {
+                "_cityid": "640300000000",
+                "_proviceid": "64",
+                "_cityname": "吴忠市"
+              },
+              {
+                "_cityid": "640400000000",
+                "_proviceid": "64",
+                "_cityname": "固原市"
+              },
+              {
+                "_cityid": "640500000000",
+                "_proviceid": "64",
+                "_cityname": "中卫市"
+              }
+            ],
+            "65": [
+              {
+                "_cityid": "650100000000",
+                "_proviceid": "65",
+                "_cityname": "乌鲁木齐市"
+              },
+              {
+                "_cityid": "650200000000",
+                "_proviceid": "65",
+                "_cityname": "克拉玛依市"
+              },
+              {
+                "_cityid": "650400000000",
+                "_proviceid": "65",
+                "_cityname": "吐鲁番市"
+              },
+              {
+                "_cityid": "650500000000",
+                "_proviceid": "65",
+                "_cityname": "哈密市"
+              },
+              {
+                "_cityid": "652300000000",
+                "_proviceid": "65",
+                "_cityname": "昌吉回族自治州"
+              },
+              {
+                "_cityid": "652700000000",
+                "_proviceid": "65",
+                "_cityname": "博尔塔拉蒙古自治州"
+              },
+              {
+                "_cityid": "652800000000",
+                "_proviceid": "65",
+                "_cityname": "巴音郭楞蒙古自治州"
+              },
+              {
+                "_cityid": "652900000000",
+                "_proviceid": "65",
+                "_cityname": "阿克苏地区"
+              },
+              {
+                "_cityid": "653000000000",
+                "_proviceid": "65",
+                "_cityname": "克孜勒苏柯尔克孜自治州"
+              },
+              {
+                "_cityid": "653100000000",
+                "_proviceid": "65",
+                "_cityname": "喀什地区"
+              },
+              {
+                "_cityid": "653200000000",
+                "_proviceid": "65",
+                "_cityname": "和田地区"
+              },
+              {
+                "_cityid": "654000000000",
+                "_proviceid": "65",
+                "_cityname": "伊犁哈萨克自治州"
+              },
+              {
+                "_cityid": "654200000000",
+                "_proviceid": "65",
+                "_cityname": "塔城地区"
+              },
+              {
+                "_cityid": "654300000000",
+                "_proviceid": "65",
+                "_cityname": "阿勒泰地区"
+              },
+              {
+                "_cityid": "659000000000",
+                "_proviceid": "65",
+                "_cityname": "自治区直辖县级行政区划"
+              }
+            ]
+          }

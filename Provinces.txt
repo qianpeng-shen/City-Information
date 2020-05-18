@@ -1,0 +1,126 @@
+[
+            {
+              "_proviceid": "11",
+              "_provicename": "北京市"
+            },
+            {
+              "_proviceid": "12",
+              "_provicename": "天津市"
+            },
+            {
+              "_proviceid": "13",
+              "_provicename": "河北省"
+            },
+            {
+              "_proviceid": "14",
+              "_provicename": "山西省"
+            },
+            {
+              "_proviceid": "15",
+              "_provicename": "内蒙古自治区"
+            },
+            {
+              "_proviceid": "21",
+              "_provicename": "辽宁省"
+            },
+            {
+              "_proviceid": "22",
+              "_provicename": "吉林省"
+            },
+            {
+              "_proviceid": "23",
+              "_provicename": "黑龙江省"
+            },
+            {
+              "_proviceid": "31",
+              "_provicename": "上海市"
+            },
+            {
+              "_proviceid": "32",
+              "_provicename": "江苏省"
+            },
+            {
+              "_proviceid": "33",
+              "_provicename": "浙江省"
+            },
+            {
+              "_proviceid": "34",
+              "_provicename": "安徽省"
+            },
+            {
+              "_proviceid": "35",
+              "_provicename": "福建省"
+            },
+            {
+              "_proviceid": "36",
+              "_provicename": "江西省"
+            },
+            {
+              "_proviceid": "37",
+              "_provicename": "山东省"
+            },
+            {
+              "_proviceid": "41",
+              "_provicename": "河南省"
+            },
+            {
+              "_proviceid": "42",
+              "_provicename": "湖北省"
+            },
+            {
+              "_proviceid": "43",
+              "_provicename": "湖南省"
+            },
+            {
+              "_proviceid": "44",
+              "_provicename": "广东省"
+            },
+            {
+              "_proviceid": "45",
+              "_provicename": "广西壮族自治区"
+            },
+            {
+              "_proviceid": "46",
+              "_provicename": "海南省"
+            },
+            {
+              "_proviceid": "50",
+              "_provicename": "重庆市"
+            },
+            {
+              "_proviceid": "51",
+              "_provicename": "四川省"
+            },
+            {
+              "_proviceid": "52",
+              "_provicename": "贵州省"
+            },
+            {
+              "_proviceid": "53",
+              "_provicename": "云南省"
+            },
+            {
+              "_proviceid": "54",
+              "_provicename": "西藏自治区"
+            },
+            {
+              "_proviceid": "61",
+              "_provicename": "陕西省"
+            },
+            {
+              "_proviceid": "62",
+              "_provicename": "甘肃省"
+            },
+            {
+              "_proviceid": "63",
+              "_provicename": "青海省"
+            },
+            {
+              "_proviceid": "64",
+              "_provicename": "宁夏回族自治区"
+            },
+            {
+              "_proviceid": "65",
+              "_provicename": "新疆维吾尔自治区"
+            }
+          ]
